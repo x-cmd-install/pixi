@@ -1,0 +1,65 @@
+about:
+  description: Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
+  license: BSD-3-Clause
+  homepage: https://pixi.sh
+  head: bab9871
+  archived: false
+  latestVersion: v0.78.0
+  collectedAt: 2026-08-31T02:57:45Z
+timeline:
+  created: 2023-04-28
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-28
+popularity:
+  star: 7660
+  watcher: 29
+  fork: 557
+  release: 145
+  contributor: 292
+  pullRequest: 606
+  issue: 2660
+language:
+  Rust: 8966422
+  Python: 998573
+  Shell: 29529
+  C++: 11135
+  Batchfile: 8088
+  PowerShell: 7442
+  CMake: 7326
+  Jinja: 6316
+  HTML: 1155
+  Meson: 142
+totalLine: 10036128
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 6
+    mergedPR: 92
+    openPR: 31
+    closedIssue: 10
+    openIssue: 28
+    commit: 71
+  last90d:
+    since: 2026-06-02
+    release: 18
+    mergedPR: 340
+    openPR: 61
+    closedIssue: 100
+    openIssue: 93
+    commit: 351
+  last180d:
+    since: 2026-03-04
+    release: 26
+    mergedPR: 682
+    openPR: 80
+    closedIssue: 244
+    openIssue: 147
+    commit: 688
+  last360d:
+    since: 2025-09-05
+    release: 42
+    mergedPR: 1141
+    openPR: 107
+    closedIssue: 526
+    openIssue: 267
+    commit: 1130
