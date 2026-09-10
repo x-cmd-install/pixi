@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.80.0"
   latestRelease: "v0.80.0"
   latestPrerelease: "v0.39.2-prerelease.2"
-  collectedAt: 2026-09-10T20:37:37Z
+  collectedAt: 2026-09-10T23:13:27Z
 timeline:
   created: 2023-04-28
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-07
   lastPrerelease: 2024-12-11
 popularity:
-  star: 7704
+  star: 7705
   watcher: 30
   fork: 561
   release: 147
@@ -92,7 +92,7 @@ total:
   commit: 3610
 ---
 path: /home/runner/.x-repo/github.com/prefix-dev/pixi
-collectedAt: 2026-09-10T20:38:15Z
+collectedAt: 2026-09-10T23:14:01Z
 loc:
   Rust:
     code: 203484
