@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,704 · **Forks**: 561 · **Open issues**: 2,678 · **Contributors**: 292
+- **Stars**: 7,705 · **Forks**: 561 · **Open issues**: 2,678 · **Contributors**: 292
 
 ## Totals (cumulative)
 
@@ -120,4 +120,4 @@ Install metadata for pixi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:38:26Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:14:18Z._
