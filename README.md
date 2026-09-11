@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 5 | 87 | 27 | 5 | 39 | 87 |
-| last60d | 2026-07-12 | 11 | 189 | 48 | 44 | 79 | 191 |
-| 90d | 2026-06-12 | 18 | 315 | 60 | 85 | 104 | 339 |
-| last180d | 2026-03-14 | 28 | 691 | 81 | 227 | 155 | 692 |
-| 360d | 2025-09-15 | 43 | 1143 | 108 | 510 | 271 | 1133 |
-| last720d | 2024-09-20 | 94 | 2299 | 119 | 1309 | 474 | 2301 |
+| 30d | 2026-08-12 | 5 | 85 | 25 | 5 | 37 | 87 |
+| last60d | 2026-07-13 | 11 | 185 | 48 | 42 | 76 | 191 |
+| 90d | 2026-06-13 | 18 | 315 | 60 | 85 | 104 | 339 |
+| last180d | 2026-03-15 | 28 | 690 | 81 | 227 | 155 | 692 |
+| 360d | 2025-09-16 | 42 | 1134 | 108 | 508 | 269 | 1133 |
+| last720d | 2024-09-21 | 94 | 2299 | 119 | 1309 | 474 | 2290 |
 
 ## Release assets
 
@@ -120,4 +120,4 @@ Install metadata for pixi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:14:18Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:22:45Z._
