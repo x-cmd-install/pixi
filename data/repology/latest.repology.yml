@@ -1,3 +1,65 @@
+- repo: aosc
+  srcname: app-devel/pixi
+  binname: pixi
+  visiblename: pixi
+  version: 0.79.0
+  origversion: null
+  status: outdated
+  summary: Package manager tool for multiple programming languages.
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - devel
+- repo: chocolatey
+  binname: pixi
+  visiblename: Pixi
+  version: 0.79.0
+  origversion: null
+  status: outdated
+  summary: Pixi is a cross-platform, multi-language package manager and workflow tool built on the conda ecosystem.
+- repo: parabola
+  subrepo: extra
+  srcname: pixi
+  binname: pixi
+  visiblename: pixi
+  version: 0.80.0
+  origversion: 0.80.0-1
+  status: newest
+  summary: A package management and workflow tool
+  licenses:
+    - BSD-3-Clause
+- repo: arch
+  subrepo: extra
+  srcname: pixi
+  binname: pixi
+  visiblename: pixi
+  version: 0.80.0
+  origversion: 0.80.0-1
+  status: newest
+  summary: A package management and workflow tool
+  licenses:
+    - BSD-3-Clause
+- repo: scoop
+  subrepo: main
+  binname: pixi
+  visiblename: pixi
+  version: 0.80.0
+  origversion: null
+  status: newest
+  licenses:
+    - BSD-3-Clause
+- repo: aur
+  srcname: pixi-git
+  binname: pixi-git
+  visiblename: pixi-git
+  version: 0.1.0.r796.g4e0a8736
+  origversion: 0.1.0.r796.g4e0a8736-1
+  status: rolling
+  summary: Pixel art editor made with Zig.
+  maintainers:
+    - siaeyy@aur
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: pixi
@@ -63,48 +125,6 @@
     - orhunparmaksiz@gmail.com
   licenses:
     - BSD-3-Clause
-- repo: aosc
-  srcname: app-devel/pixi
-  binname: pixi
-  visiblename: pixi
-  version: 0.79.0
-  origversion: null
-  status: outdated
-  summary: Package manager tool for multiple programming languages.
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - devel
-- repo: arch
-  subrepo: extra
-  srcname: pixi
-  binname: pixi
-  visiblename: pixi
-  version: 0.80.0
-  origversion: 0.80.0-1
-  status: newest
-  summary: A package management and workflow tool
-  licenses:
-    - BSD-3-Clause
-- repo: aur
-  srcname: pixi-git
-  binname: pixi-git
-  visiblename: pixi-git
-  version: 0.1.0.r796.g4e0a8736
-  origversion: 0.1.0.r796.g4e0a8736-1
-  status: rolling
-  summary: Pixel art editor made with Zig.
-  maintainers:
-    - siaeyy@aur
-  licenses:
-    - MIT
-- repo: chocolatey
-  binname: pixi
-  visiblename: Pixi
-  version: 0.79.0
-  origversion: null
-  status: outdated
-  summary: Pixi is a cross-platform, multi-language package manager and workflow tool built on the conda ecosystem.
 - repo: gentoo
   srcname: dev-util/pixi
   visiblename: dev-util/pixi
@@ -173,16 +193,6 @@
   origversion: null
   status: rolling
   summary: Package management made easy
-- repo: msys2_clangarm64
-  srcname: mingw-w64-pixi
-  binname: mingw-w64-clang-aarch64-pixi
-  visiblename: mingw-w64-clang-aarch64-pixi
-  version: 0.68.0
-  origversion: 0.68.0-1
-  status: outdated
-  summary: A fast, modern, and reproducible package management tool for developers of all backgrounds. (mingw-w64)
-  licenses:
-    - spdx:BSD-3-Clause
 - repo: liguros_stable
   srcname: dev-util/pixi
   visiblename: dev-util/pixi
@@ -300,9 +310,9 @@
   srcname: pixi
   binname: pixi
   visiblename: pixi
-  version: 0.79.0
-  origversion: 0.79.0-1
-  status: outdated
+  version: 0.80.0
+  origversion: 0.80.0-1
+  status: newest
   summary: A package management and workflow tool
   licenses:
     - BSD-3-Clause
@@ -327,20 +337,16 @@
   summary: A fast, modern, and reproducible package management tool for developers of all backgrounds. (mingw-w64)
   licenses:
     - spdx:BSD-3-Clause
-- repo: terra_41
-  srcname: pixi
-  binname: pixi-debugsource
-  visiblename: pixi-debugsource
-  version: 0.62.1
-  origversion: 0.62.1-1.fc41
+- repo: msys2_clangarm64
+  srcname: mingw-w64-pixi
+  binname: mingw-w64-clang-aarch64-pixi
+  visiblename: mingw-w64-clang-aarch64-pixi
+  version: 0.68.0
+  origversion: 0.68.0-1
   status: outdated
-  summary: Debug sources for package pixi
-  maintainers:
-    - metcya@gmail.com
+  summary: A fast, modern, and reproducible package management tool for developers of all backgrounds. (mingw-w64)
   licenses:
-    - BSD-3-Clause
-  categories:
-    - Development/Debug
+    - spdx:BSD-3-Clause
 - repo: msys2_ucrt64
   srcname: mingw-w64-pixi
   binname: mingw-w64-ucrt-x86_64-pixi
@@ -423,26 +429,6 @@
     - xiaoxiangmoe@gmail.com
   licenses:
     - BSD-3-Clause
-- repo: parabola
-  subrepo: extra
-  srcname: pixi
-  binname: pixi
-  visiblename: pixi
-  version: 0.80.0
-  origversion: 0.80.0-1
-  status: newest
-  summary: A package management and workflow tool
-  licenses:
-    - BSD-3-Clause
-- repo: scoop
-  subrepo: main
-  binname: pixi
-  visiblename: pixi
-  version: 0.80.0
-  origversion: null
-  status: newest
-  licenses:
-    - BSD-3-Clause
 - repo: terra_41
   srcname: pixi
   binname: pixi
@@ -507,6 +493,20 @@
   origversion: 0.62.1-1.fc41
   status: outdated
   summary: Debug information for package pixi
+  maintainers:
+    - metcya@gmail.com
+  licenses:
+    - BSD-3-Clause
+  categories:
+    - Development/Debug
+- repo: terra_41
+  srcname: pixi
+  binname: pixi-debugsource
+  visiblename: pixi-debugsource
+  version: 0.62.1
+  origversion: 0.62.1-1.fc41
+  status: outdated
+  summary: Debug sources for package pixi
   maintainers:
     - metcya@gmail.com
   licenses:
