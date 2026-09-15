@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.80.0` (2026-09-07)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-15
 - **Assets in release**: 30
 
 ## Popularity
 
-- **Stars**: 7,714 · **Forks**: 561 · **Open issues**: 2,680 · **Contributors**: 292
+- **Stars**: 7,721 · **Forks**: 561 · **Open issues**: 2,682 · **Contributors**: 292
 
 ## Totals (cumulative)
 
-- **Releases**: 147 · **Merged PRs**: 3293 · **Open PRs**: 123 · **Closed issues**: 2115 · **Open issues**: 565 · **Commits**: 3610
+- **Releases**: 147 · **Merged PRs**: 3295 · **Open PRs**: 123 · **Closed issues**: 2115 · **Open issues**: 567 · **Commits**: 3612
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 5 | 80 | 27 | 3 | 38 | 55 |
-| last60d | 2026-07-16 | 10 | 175 | 48 | 36 | 72 | 175 |
-| 90d | 2026-06-16 | 18 | 303 | 62 | 83 | 104 | 308 |
-| last180d | 2026-03-18 | 27 | 666 | 83 | 220 | 153 | 661 |
-| 360d | 2025-09-19 | 42 | 1127 | 111 | 501 | 269 | 1120 |
-| last720d | 2024-09-24 | 94 | 2280 | 122 | 1305 | 475 | 2281 |
+| 30d | 2026-08-16 | 5 | 82 | 27 | 3 | 39 | 57 |
+| last60d | 2026-07-17 | 10 | 176 | 48 | 34 | 70 | 177 |
+| 90d | 2026-06-17 | 18 | 303 | 62 | 79 | 104 | 310 |
+| last180d | 2026-03-19 | 27 | 665 | 83 | 217 | 154 | 663 |
+| 360d | 2025-09-20 | 42 | 1129 | 111 | 501 | 271 | 1122 |
+| last720d | 2024-09-25 | 94 | 2277 | 122 | 1303 | 477 | 2274 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for pixi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:35:06Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:39:16Z._
