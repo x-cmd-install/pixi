@@ -4,7 +4,7 @@
 
 Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
 
-[![x-cmd/install — pixi Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pixi.svg)](https://x-cmd.com/install/pixi)
+[![x-cmd/install — pixi Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/pixi.svg)](https://x-cmd.com/install/pixi)
 
 ## Install
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.81.0` (2026-09-15)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-23
 - **Assets in release**: 30
 
 ## Popularity
 
-- **Stars**: 7,760 · **Forks**: 563 · **Open issues**: 2,693 · **Contributors**: 293
+- **Stars**: 7,765 · **Forks**: 563 · **Open issues**: 2,695 · **Contributors**: 293
 
 ## Totals (cumulative)
 
-- **Releases**: 148 · **Merged PRs**: 3322 · **Open PRs**: 157 · **Closed issues**: 2129 · **Open issues**: 564 · **Commits**: 3639
+- **Releases**: 148 · **Merged PRs**: 3324 · **Open PRs**: 158 · **Closed issues**: 2129 · **Open issues**: 566 · **Commits**: 3641
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 5 | 76 | 60 | 9 | 35 | 59 |
-| last60d | 2026-07-24 | 11 | 186 | 80 | 34 | 56 | 181 |
-| 90d | 2026-06-24 | 19 | 297 | 96 | 86 | 97 | 301 |
-| last180d | 2026-03-26 | 28 | 667 | 116 | 221 | 147 | 676 |
-| 360d | 2025-09-27 | 43 | 1143 | 145 | 503 | 262 | 1135 |
-| last720d | 2024-10-02 | 95 | 2281 | 156 | 1302 | 470 | 2273 |
+| 30d | 2026-08-24 | 5 | 75 | 61 | 9 | 37 | 0 |
+| last60d | 2026-07-25 | 11 | 187 | 81 | 34 | 58 | 0 |
+| 90d | 2026-06-25 | 18 | 288 | 97 | 84 | 97 | 0 |
+| last180d | 2026-03-27 | 28 | 666 | 116 | 220 | 147 | 0 |
+| 360d | 2025-09-28 | 43 | 1144 | 146 | 502 | 264 | 0 |
+| last720d | 2024-10-03 | 95 | 2280 | 157 | 1300 | 472 | 2267 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for pixi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:32:25Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:40:54Z._

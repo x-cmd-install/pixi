@@ -4,7 +4,7 @@
 
 Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
 
-[![x-cmd/install — pixi Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pixi.svg?lang=zh)](https://x-cmd.com/install/pixi)
+[![x-cmd/install — pixi Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/pixi.svg?lang=zh)](https://x-cmd.com/install/pixi)
 
 ## 安装
 
@@ -43,27 +43,27 @@ x install pixi
 ## 发布
 
 - **最新版本**: `v0.81.0` (2026-09-15)
-- **最近提交**: 2026-09-22
+- **最近提交**: 2026-09-23
 - **Release 含资产**: 30 个
 
 ## 流行度
 
-- **Star**: 7,760 · **Fork**: 563 · **开放 issue**: 2,693 · **贡献者**: 293
+- **Star**: 7,765 · **Fork**: 563 · **开放 issue**: 2,695 · **贡献者**: 293
 
 ## 累计统计
 
-- **发布数**: 148 · **已合并 PR**: 3322 · **开放 PR**: 157 · **已关闭 issue**: 2129 · **开放 issue**: 564 · **提交数**: 3639
+- **发布数**: 148 · **已合并 PR**: 3324 · **开放 PR**: 158 · **已关闭 issue**: 2129 · **开放 issue**: 566 · **提交数**: 3641
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 5 | 76 | 60 | 9 | 35 | 59 |
-| last60d | 2026-07-24 | 11 | 186 | 80 | 34 | 56 | 181 |
-| 90d | 2026-06-24 | 19 | 297 | 96 | 86 | 97 | 301 |
-| last180d | 2026-03-26 | 28 | 667 | 116 | 221 | 147 | 676 |
-| 360d | 2025-09-27 | 43 | 1143 | 145 | 503 | 262 | 1135 |
-| last720d | 2024-10-02 | 95 | 2281 | 156 | 1302 | 470 | 2273 |
+| 30d | 2026-08-24 | 5 | 75 | 61 | 9 | 37 | 0 |
+| last60d | 2026-07-25 | 11 | 187 | 81 | 34 | 58 | 0 |
+| 90d | 2026-06-25 | 18 | 288 | 97 | 84 | 97 | 0 |
+| last180d | 2026-03-27 | 28 | 666 | 116 | 220 | 147 | 0 |
+| 360d | 2025-09-28 | 43 | 1144 | 146 | 502 | 264 | 0 |
+| last720d | 2024-10-03 | 95 | 2280 | 157 | 1300 | 472 | 2267 |
 
 ## Release 资产
 
@@ -109,4 +109,4 @@ pixi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:32:26Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:40:55Z._
