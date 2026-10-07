@@ -14,14 +14,14 @@ x install pixi
 
 ## Code insight
 
-Total: **281,340** lines of code across **1511** files in the top 5 languages.
+Total: **281,336** lines of code across **1511** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 207,478 | 10,396 | 26,031 | 665 |
 | Json | 29,679 | 0 | 0 | 89 |
 | Python | 27,047 | 1,845 | 5,068 | 191 |
-| Toml | 9,203 | 952 | 1,479 | 484 |
+| Toml | 9,199 | 952 | 1,479 | 484 |
 | Yaml | 2,834 | 66 | 185 | 82 |
 
 ## OpenSSF Scorecard
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,828 · **Forks**: 575 · **Open issues**: 2,717 · **Contributors**: 299
+- **Stars**: 7,832 · **Forks**: 575 · **Open issues**: 2,721 · **Contributors**: 299
 
 ## Totals (cumulative)
 
-- **Releases**: 148 · **Merged PRs**: 3363 · **Open PRs**: 143 · **Closed issues**: 2144 · **Open issues**: 573 · **Commits**: 3679
+- **Releases**: 148 · **Merged PRs**: 3366 · **Open PRs**: 149 · **Closed issues**: 2156 · **Open issues**: 565 · **Commits**: 3682
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 2 | 77 | 43 | 16 | 31 | 0 |
-| last60d | 2026-08-07 | 7 | 163 | 59 | 27 | 58 | 0 |
-| 90d | 2026-07-08 | 13 | 265 | 79 | 74 | 96 | 0 |
-| last180d | 2026-04-09 | 27 | 667 | 100 | 212 | 152 | 0 |
-| 360d | 2025-10-11 | 42 | 1159 | 129 | 490 | 256 | 0 |
-| last720d | 2024-10-16 | 91 | 2256 | 142 | 1287 | 475 | 2245 |
+| 30d | 2026-09-07 | 2 | 79 | 49 | 14 | 33 | 72 |
+| last60d | 2026-08-08 | 7 | 166 | 67 | 27 | 62 | 163 |
+| 90d | 2026-07-09 | 13 | 261 | 87 | 71 | 99 | 272 |
+| last180d | 2026-04-10 | 27 | 666 | 108 | 209 | 155 | 676 |
+| 360d | 2025-10-12 | 42 | 1162 | 135 | 491 | 256 | 1152 |
+| last720d | 2024-10-17 | 89 | 2254 | 148 | 1296 | 468 | 2242 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for pixi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:53:38Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:29:20Z._
