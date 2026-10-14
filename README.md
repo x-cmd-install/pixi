@@ -14,14 +14,14 @@ x install pixi
 
 ## Code insight
 
-Total: **282,819** lines of code across **1515** files in the top 5 languages.
+Total: **283,041** lines of code across **1515** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 208,795 | 10,413 | 26,108 | 665 |
+| Rust | 209,002 | 10,412 | 26,161 | 665 |
 | Json | 29,721 | 0 | 0 | 89 |
-| Python | 27,120 | 1,848 | 5,080 | 192 |
-| Toml | 9,226 | 953 | 1,479 | 485 |
+| Python | 27,145 | 1,850 | 5,087 | 192 |
+| Toml | 9,216 | 954 | 1,480 | 485 |
 | Yaml | 2,858 | 66 | 185 | 84 |
 
 ## OpenSSF Scorecard
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,851 · **Forks**: 579 · **Open issues**: 2,739 · **Contributors**: 299
+- **Stars**: 7,854 · **Forks**: 579 · **Open issues**: 2,739 · **Contributors**: 300
 
 ## Totals (cumulative)
 
-- **Releases**: 148 · **Merged PRs**: 3391 · **Open PRs**: 113 · **Closed issues**: 2189 · **Open issues**: 550 · **Commits**: 3707
+- **Releases**: 148 · **Merged PRs**: 3403 · **Open PRs**: 119 · **Closed issues**: 2190 · **Open issues**: 549 · **Commits**: 3719
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 1 | 84 | 45 | 19 | 40 | 73 |
-| last60d | 2026-08-14 | 6 | 175 | 58 | 31 | 70 | 161 |
-| 90d | 2026-07-15 | 12 | 272 | 74 | 69 | 103 | 278 |
-| last180d | 2026-04-16 | 27 | 669 | 91 | 212 | 158 | 683 |
-| 360d | 2025-10-18 | 42 | 1167 | 107 | 492 | 253 | 1145 |
-| last720d | 2024-10-23 | 88 | 2258 | 113 | 1312 | 452 | 2249 |
+| 30d | 2026-09-14 | 1 | 96 | 51 | 20 | 38 | 85 |
+| last60d | 2026-08-15 | 6 | 186 | 64 | 31 | 69 | 173 |
+| 90d | 2026-07-16 | 11 | 281 | 79 | 67 | 100 | 290 |
+| last180d | 2026-04-17 | 27 | 679 | 97 | 212 | 157 | 695 |
+| 360d | 2025-10-19 | 42 | 1178 | 113 | 490 | 252 | 1157 |
+| last720d | 2024-10-24 | 88 | 2270 | 119 | 1312 | 451 | 2260 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for pixi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:22:34Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:29:56Z._
