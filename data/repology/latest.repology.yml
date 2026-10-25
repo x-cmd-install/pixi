@@ -1,3 +1,48 @@
+- repo: aur
+  srcname: pixi-git
+  binname: pixi-git
+  visiblename: pixi-git
+  version: 0.1.0.r796.g4e0a8736
+  origversion: 0.1.0.r796.g4e0a8736-1
+  status: rolling
+  summary: Pixel art editor made with Zig.
+  maintainers:
+    - siaeyy@aur
+  licenses:
+    - MIT
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: pixi
+  binname: pixi
+  visiblename: pixi
+  version: 0.79.0
+  origversion: 0.79.0-1
+  status: outdated
+  summary: A package management and workflow tool
+  licenses:
+    - BSD-3-Clause
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: pixi
+  binname: pixi
+  visiblename: pixi
+  version: 0.81.0
+  origversion: 0.81.0-1
+  status: outdated
+  summary: A package management and workflow tool
+  licenses:
+    - BSD-3-Clause
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: pixi
+  binname: pixi
+  visiblename: pixi
+  version: 0.83.0
+  origversion: 0.83.0-1
+  status: newest
+  summary: A package management and workflow tool
+  licenses:
+    - BSD-3-Clause
 - repo: alpine_edge
   subrepo: testing
   srcname: pixi
@@ -35,18 +80,6 @@
   summary: A package management and workflow tool (documentation)
   maintainers:
     - orhunparmaksiz@gmail.com
-  licenses:
-    - BSD-3-Clause
-- repo: nix_stable_24_11
-  srcname: pixi
-  visiblename: pixi
-  version: 0.34.0
-  origversion: null
-  status: outdated
-  summary: Package management made easy
-  maintainers:
-    - wentworth@outlook.com
-    - git@edmundmiller.dev
   licenses:
     - BSD-3-Clause
 - repo: alpine_edge
@@ -98,18 +131,6 @@
   summary: A package management and workflow tool
   licenses:
     - BSD-3-Clause
-- repo: aur
-  srcname: pixi-git
-  binname: pixi-git
-  visiblename: pixi-git
-  version: 0.1.0.r796.g4e0a8736
-  origversion: 0.1.0.r796.g4e0a8736-1
-  status: rolling
-  summary: Pixel art editor made with Zig.
-  maintainers:
-    - siaeyy@aur
-  licenses:
-    - MIT
 - repo: chocolatey
   binname: pixi
   visiblename: Pixi
@@ -258,39 +279,6 @@
     - BZIP2
   categories:
     - dev-util
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: pixi
-  binname: pixi
-  visiblename: pixi
-  version: 0.79.0
-  origversion: 0.79.0-1
-  status: outdated
-  summary: A package management and workflow tool
-  licenses:
-    - BSD-3-Clause
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: pixi
-  binname: pixi
-  visiblename: pixi
-  version: 0.81.0
-  origversion: 0.81.0-1
-  status: outdated
-  summary: A package management and workflow tool
-  licenses:
-    - BSD-3-Clause
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: pixi
-  binname: pixi
-  visiblename: pixi
-  version: 0.83.0
-  origversion: 0.83.0-1
-  status: newest
-  summary: A package management and workflow tool
-  licenses:
-    - BSD-3-Clause
 - repo: msys2_clang64
   srcname: mingw-w64-pixi
   binname: mingw-w64-clang-x86_64-pixi
@@ -325,6 +313,18 @@
   srcname: pixi
   visiblename: pixi
   version: 0.20.0
+  origversion: null
+  status: outdated
+  summary: Package management made easy
+  maintainers:
+    - wentworth@outlook.com
+    - git@edmundmiller.dev
+  licenses:
+    - BSD-3-Clause
+- repo: nix_stable_24_11
+  srcname: pixi
+  visiblename: pixi
+  version: 0.34.0
   origversion: null
   status: outdated
   summary: Package management made easy
@@ -372,7 +372,7 @@
 - repo: nix_unstable
   srcname: pixi
   visiblename: pixi
-  version: 0.82.0
+  version: 0.82.1
   origversion: null
   status: outdated
   summary: Package management made easy
@@ -386,9 +386,9 @@
   srcname: pixi
   binname: pixi
   visiblename: pixi
-  version: 0.81.0
-  origversion: 0.81.0-1
-  status: outdated
+  version: 0.83.0
+  origversion: 0.83.0-1
+  status: newest
   summary: A package management and workflow tool
   licenses:
     - BSD-3-Clause
