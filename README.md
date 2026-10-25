@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,897 · **Forks**: 588 · **Open issues**: 2,756 · **Contributors**: 302
+- **Stars**: 7,898 · **Forks**: 588 · **Open issues**: 2,759 · **Contributors**: 302
 
 ## Totals (cumulative)
 
-- **Releases**: 151 · **Merged PRs**: 3458 · **Open PRs**: 130 · **Closed issues**: 2200 · **Open issues**: 556 · **Commits**: 3774
+- **Releases**: 151 · **Merged PRs**: 3458 · **Open PRs**: 129 · **Closed issues**: 2200 · **Open issues**: 559 · **Commits**: 3774
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 3 | 125 | 52 | 19 | 41 | 132 |
-| last60d | 2026-08-25 | 7 | 197 | 75 | 32 | 73 | 205 |
-| 90d | 2026-07-26 | 14 | 317 | 90 | 59 | 93 | 332 |
-| last180d | 2026-04-27 | 28 | 708 | 108 | 206 | 163 | 733 |
-| 360d | 2025-10-29 | 43 | 1203 | 123 | 482 | 256 | 1199 |
-| last720d | 2024-11-03 | 91 | 2304 | 130 | 1303 | 457 | 2293 |
+| 30d | 2026-09-25 | 3 | 122 | 52 | 19 | 41 | 132 |
+| last60d | 2026-08-26 | 7 | 195 | 75 | 32 | 75 | 205 |
+| 90d | 2026-07-27 | 14 | 313 | 88 | 58 | 96 | 332 |
+| last180d | 2026-04-28 | 28 | 704 | 107 | 205 | 165 | 733 |
+| 360d | 2025-10-30 | 42 | 1199 | 122 | 481 | 258 | 1199 |
+| last720d | 2024-11-04 | 91 | 2302 | 129 | 1299 | 459 | 2293 |
 
 ## Release assets
 
@@ -102,13 +102,13 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **51** distros on [repology.org](https://repology.org/project/pixi). **9** are ✅ on the latest upstream release, **35** are ⚠️ on an older version.
+Reported by **51** distros on [repology.org](https://repology.org/project/pixi). **10** are ✅ on the latest upstream release, **34** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.83.0` | ✅ latest |
 | Homebrew | `0.83.0` | ✅ latest |
-| Nix unstable | `0.82.0` | ⚠️ outdated |
+| Nix unstable | `0.82.1` | ⚠️ outdated |
 | Alpine edge | `0.24.2` | ⚠️ outdated |
 
 ## Improve this data
@@ -120,4 +120,4 @@ Install metadata for pixi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:06:06Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:07:58Z._
