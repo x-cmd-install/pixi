@@ -1,37 +1,10 @@
-- repo: aur
-  srcname: pixi-git
-  binname: pixi-git
-  visiblename: pixi-git
-  version: 0.1.0.r796.g4e0a8736
-  origversion: 0.1.0.r796.g4e0a8736-1
-  status: rolling
-  summary: Pixel art editor made with Zig.
-  maintainers:
-    - siaeyy@aur
-  licenses:
-    - MIT
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: pixi
+- repo: chocolatey
   binname: pixi
-  visiblename: pixi
-  version: 0.79.0
-  origversion: 0.79.0-1
-  status: outdated
-  summary: A package management and workflow tool
-  licenses:
-    - BSD-3-Clause
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: pixi
-  binname: pixi
-  visiblename: pixi
-  version: 0.81.0
-  origversion: 0.81.0-1
-  status: outdated
-  summary: A package management and workflow tool
-  licenses:
-    - BSD-3-Clause
+  visiblename: Pixi
+  version: 0.83.0
+  origversion: null
+  status: newest
+  summary: Pixi is a cross-platform, multi-language package manager and workflow tool built on the conda ecosystem.
 - repo: manjaro_unstable
   subrepo: extra
   srcname: pixi
@@ -131,13 +104,18 @@
   summary: A package management and workflow tool
   licenses:
     - BSD-3-Clause
-- repo: chocolatey
-  binname: pixi
-  visiblename: Pixi
-  version: 0.82.0
-  origversion: null
-  status: outdated
-  summary: Pixi is a cross-platform, multi-language package manager and workflow tool built on the conda ecosystem.
+- repo: aur
+  srcname: pixi-git
+  binname: pixi-git
+  visiblename: pixi-git
+  version: 0.1.0.r796.g4e0a8736
+  origversion: 0.1.0.r796.g4e0a8736-1
+  status: rolling
+  summary: Pixel art editor made with Zig.
+  maintainers:
+    - siaeyy@aur
+  licenses:
+    - MIT
 - repo: gentoo
   srcname: dev-util/pixi
   visiblename: dev-util/pixi
@@ -279,6 +257,28 @@
     - BZIP2
   categories:
     - dev-util
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: pixi
+  binname: pixi
+  visiblename: pixi
+  version: 0.79.0
+  origversion: 0.79.0-1
+  status: outdated
+  summary: A package management and workflow tool
+  licenses:
+    - BSD-3-Clause
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: pixi
+  binname: pixi
+  visiblename: pixi
+  version: 0.81.0
+  origversion: 0.81.0-1
+  status: outdated
+  summary: A package management and workflow tool
+  licenses:
+    - BSD-3-Clause
 - repo: msys2_clang64
   srcname: mingw-w64-pixi
   binname: mingw-w64-clang-x86_64-pixi
