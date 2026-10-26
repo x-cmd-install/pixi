@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,898 · **Forks**: 588 · **Open issues**: 2,759 · **Contributors**: 302
+- **Stars**: 7,903 · **Forks**: 588 · **Open issues**: 2,759 · **Contributors**: 302
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 3 | 122 | 52 | 19 | 41 | 132 |
-| last60d | 2026-08-26 | 7 | 195 | 75 | 32 | 75 | 205 |
-| 90d | 2026-07-27 | 14 | 313 | 88 | 58 | 96 | 332 |
-| last180d | 2026-04-28 | 28 | 704 | 107 | 205 | 165 | 733 |
-| 360d | 2025-10-30 | 42 | 1199 | 122 | 481 | 258 | 1199 |
-| last720d | 2024-11-04 | 91 | 2302 | 129 | 1299 | 459 | 2293 |
+| 30d | 2026-09-26 | 3 | 122 | 52 | 19 | 40 | 118 |
+| last60d | 2026-08-27 | 7 | 188 | 73 | 31 | 71 | 185 |
+| 90d | 2026-07-28 | 13 | 302 | 86 | 54 | 95 | 294 |
+| last180d | 2026-04-29 | 28 | 701 | 107 | 202 | 164 | 711 |
+| 360d | 2025-10-31 | 42 | 1195 | 122 | 476 | 258 | 1184 |
+| last720d | 2024-11-05 | 91 | 2299 | 129 | 1297 | 459 | 2291 |
 
 ## Release assets
 
@@ -102,7 +102,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **51** distros on [repology.org](https://repology.org/project/pixi). **10** are ✅ on the latest upstream release, **34** are ⚠️ on an older version.
+Reported by **51** distros on [repology.org](https://repology.org/project/pixi). **11** are ✅ on the latest upstream release, **33** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -120,4 +120,4 @@ Install metadata for pixi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:07:58Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:18:55Z._
