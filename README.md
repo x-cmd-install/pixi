@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,926 · **Forks**: 593 · **Open issues**: 2,773 · **Contributors**: 304
+- **Stars**: 7,933 · **Forks**: 593 · **Open issues**: 2,773 · **Contributors**: 304
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 3 | 151 | 34 | 20 | 41 | 169 |
-| last60d | 2026-09-01 | 6 | 226 | 56 | 43 | 69 | 236 |
-| 90d | 2026-08-02 | 12 | 336 | 71 | 62 | 89 | 345 |
-| last180d | 2026-05-04 | 28 | 728 | 93 | 221 | 156 | 762 |
-| 360d | 2025-11-05 | 42 | 1233 | 108 | 492 | 249 | 1235 |
-| last720d | 2024-11-10 | 90 | 2332 | 115 | 1305 | 451 | 2325 |
+| 30d | 2026-10-02 | 3 | 141 | 33 | 20 | 41 | 169 |
+| last60d | 2026-09-02 | 6 | 226 | 56 | 43 | 69 | 236 |
+| 90d | 2026-08-03 | 12 | 333 | 70 | 60 | 88 | 345 |
+| last180d | 2026-05-05 | 28 | 719 | 93 | 219 | 155 | 762 |
+| 360d | 2025-11-06 | 42 | 1230 | 108 | 489 | 249 | 1235 |
+| last720d | 2024-11-11 | 90 | 2328 | 115 | 1300 | 451 | 2322 |
 
 ## Release assets
 
@@ -102,13 +102,13 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **51** distros on [repology.org](https://repology.org/project/pixi). **11** are ✅ on the latest upstream release, **33** are ⚠️ on an older version.
+Reported by **51** distros on [repology.org](https://repology.org/project/pixi). **12** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.83.0` | ✅ latest |
 | Homebrew | `0.83.0` | ✅ latest |
-| Nix unstable | `0.82.1` | ⚠️ outdated |
+| Nix unstable | `0.83.0` | ✅ latest |
 | Alpine edge | `0.24.2` | ⚠️ outdated |
 
 ## Improve this data
@@ -120,4 +120,4 @@ Install metadata for pixi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:11:27Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:37:56Z._
