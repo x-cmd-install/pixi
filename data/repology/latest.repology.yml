@@ -1,3 +1,15 @@
+- repo: nix_stable_24_11
+  srcname: pixi
+  visiblename: pixi
+  version: 0.34.0
+  origversion: null
+  status: outdated
+  summary: Package management made easy
+  maintainers:
+    - wentworth@outlook.com
+    - git@edmundmiller.dev
+  licenses:
+    - BSD-3-Clause
 - repo: alpine_edge
   subrepo: testing
   srcname: pixi
@@ -35,6 +47,18 @@
   summary: A package management and workflow tool (documentation)
   maintainers:
     - orhunparmaksiz@gmail.com
+  licenses:
+    - BSD-3-Clause
+- repo: nix_stable_25_05
+  srcname: pixi
+  visiblename: pixi
+  version: 0.46.0
+  origversion: null
+  status: outdated
+  summary: Package management made easy
+  maintainers:
+    - git@edmundmiller.dev
+    - xiaoxiangmoe@gmail.com
   licenses:
     - BSD-3-Clause
 - repo: alpine_edge
@@ -80,8 +104,8 @@
   srcname: pixi
   binname: pixi
   visiblename: pixi
-  version: 0.83.0
-  origversion: 0.83.0-1
+  version: 0.84.0
+  origversion: 0.84.0-1
   status: newest
   summary: A package management and workflow tool
   licenses:
@@ -103,14 +127,40 @@
   visiblename: Pixi
   version: 0.83.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Pixi is a cross-platform, multi-language package manager and workflow tool built on the conda ecosystem.
+- repo: gentoo
+  srcname: dev-util/pixi
+  visiblename: dev-util/pixi
+  version: 0.84.0
+  origversion: null
+  status: newest
+  summary: A package management and workflow tool
+  maintainers:
+    - mgorny@gentoo.org
+  licenses:
+    - BSD
+    - 0BSD
+    - Apache-2.0
+    - Apache-2.0-with-LLVM-exceptions
+    - BSD-2
+    - Boost-1.0
+    - CC0-1.0
+    - CDLA-Permissive-2.0
+    - ISC
+    - MIT
+    - MPL-2.0
+    - Unicode-3.0
+    - ZLIB
+    - BZIP2
+  categories:
+    - dev-util
 - repo: gentoo
   srcname: dev-util/pixi
   visiblename: dev-util/pixi
   version: 0.83.0
   origversion: 0.83.0-r1
-  status: newest
+  status: legacy
   summary: A package management and workflow tool
   maintainers:
     - mgorny@gentoo.org
@@ -134,7 +184,7 @@
 - repo: homebrew
   srcname: pixi
   visiblename: pixi
-  version: 0.83.0
+  version: 0.84.0
   origversion: null
   status: newest
   summary: Package management made easy
@@ -145,6 +195,40 @@
   origversion: null
   status: rolling
   summary: Package management made easy
+- repo: msys2_clangarm64
+  srcname: mingw-w64-pixi
+  binname: mingw-w64-clang-aarch64-pixi
+  visiblename: mingw-w64-clang-aarch64-pixi
+  version: 0.83.0
+  origversion: 0.83.0-1
+  status: outdated
+  summary: A fast, modern, and reproducible package management tool for developers of all backgrounds. (mingw-w64)
+  licenses:
+    - spdx:BSD-3-Clause
+- repo: msys2_ucrt64
+  srcname: mingw-w64-pixi
+  binname: mingw-w64-ucrt-x86_64-pixi
+  visiblename: mingw-w64-ucrt-x86_64-pixi
+  version: 0.83.0
+  origversion: 0.83.0-1
+  status: outdated
+  summary: A fast, modern, and reproducible package management tool for developers of all backgrounds. (mingw-w64)
+  licenses:
+    - spdx:BSD-3-Clause
+- repo: terra_41
+  srcname: pixi
+  binname: pixi-elvish-completion
+  visiblename: pixi-elvish-completion
+  version: 0.62.1
+  origversion: 0.62.1-1.fc41
+  status: outdated
+  summary: Elvish completion for pixi
+  maintainers:
+    - metcya@gmail.com
+  licenses:
+    - BSD-3-Clause
+  categories:
+    - Unspecified
 - repo: liguros_stable
   srcname: dev-util/pixi
   visiblename: dev-util/pixi
@@ -223,9 +307,35 @@
 - repo: liguros_develop
   srcname: dev-util/pixi
   visiblename: dev-util/pixi
+  version: 0.84.0
+  origversion: null
+  status: newest
+  summary: A package management and workflow tool
+  maintainers:
+    - mgorny@gentoo.org
+  licenses:
+    - BSD
+    - 0BSD
+    - Apache-2.0
+    - Apache-2.0-with-LLVM-exceptions
+    - BSD-2
+    - Boost-1.0
+    - CC0-1.0
+    - CDLA-Permissive-2.0
+    - ISC
+    - MIT
+    - MPL-2.0
+    - Unicode-3.0
+    - ZLIB
+    - BZIP2
+  categories:
+    - dev-util
+- repo: liguros_develop
+  srcname: dev-util/pixi
+  visiblename: dev-util/pixi
   version: 0.83.0
   origversion: 0.83.0-r1
-  status: newest
+  status: legacy
   summary: A package management and workflow tool
   maintainers:
     - mgorny@gentoo.org
@@ -253,7 +363,7 @@
   visiblename: pixi
   version: 0.83.0
   origversion: 0.83.0-1
-  status: newest
+  status: outdated
   summary: A package management and workflow tool
   licenses:
     - BSD-3-Clause
@@ -263,27 +373,7 @@
   visiblename: mingw-w64-clang-x86_64-pixi
   version: 0.83.0
   origversion: 0.83.0-1
-  status: newest
-  summary: A fast, modern, and reproducible package management tool for developers of all backgrounds. (mingw-w64)
-  licenses:
-    - spdx:BSD-3-Clause
-- repo: msys2_clangarm64
-  srcname: mingw-w64-pixi
-  binname: mingw-w64-clang-aarch64-pixi
-  visiblename: mingw-w64-clang-aarch64-pixi
-  version: 0.83.0
-  origversion: 0.83.0-1
-  status: newest
-  summary: A fast, modern, and reproducible package management tool for developers of all backgrounds. (mingw-w64)
-  licenses:
-    - spdx:BSD-3-Clause
-- repo: msys2_ucrt64
-  srcname: mingw-w64-pixi
-  binname: mingw-w64-ucrt-x86_64-pixi
-  visiblename: mingw-w64-ucrt-x86_64-pixi
-  version: 0.83.0
-  origversion: 0.83.0-1
-  status: newest
+  status: outdated
   summary: A fast, modern, and reproducible package management tool for developers of all backgrounds. (mingw-w64)
   licenses:
     - spdx:BSD-3-Clause
@@ -297,30 +387,6 @@
   maintainers:
     - wentworth@outlook.com
     - git@edmundmiller.dev
-  licenses:
-    - BSD-3-Clause
-- repo: nix_stable_24_11
-  srcname: pixi
-  visiblename: pixi
-  version: 0.34.0
-  origversion: null
-  status: outdated
-  summary: Package management made easy
-  maintainers:
-    - wentworth@outlook.com
-    - git@edmundmiller.dev
-  licenses:
-    - BSD-3-Clause
-- repo: nix_stable_25_05
-  srcname: pixi
-  visiblename: pixi
-  version: 0.46.0
-  origversion: null
-  status: outdated
-  summary: Package management made easy
-  maintainers:
-    - git@edmundmiller.dev
-    - xiaoxiangmoe@gmail.com
   licenses:
     - BSD-3-Clause
 - repo: nix_stable_25_11
@@ -352,7 +418,7 @@
   visiblename: pixi
   version: 0.83.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Package management made easy
   maintainers:
     - nixpkgs@nara.ac
@@ -364,8 +430,8 @@
   srcname: pixi
   binname: pixi
   visiblename: pixi
-  version: 0.83.0
-  origversion: 0.83.0-1
+  version: 0.84.0
+  origversion: 0.84.0-1
   status: newest
   summary: A package management and workflow tool
   licenses:
@@ -374,7 +440,7 @@
   subrepo: main
   binname: pixi
   visiblename: pixi
-  version: 0.83.0
+  version: 0.84.0
   origversion: null
   status: newest
   licenses:
@@ -477,20 +543,6 @@
     - BSD-3-Clause
   categories:
     - Development/Debug
-- repo: terra_41
-  srcname: pixi
-  binname: pixi-elvish-completion
-  visiblename: pixi-elvish-completion
-  version: 0.62.1
-  origversion: 0.62.1-1.fc41
-  status: outdated
-  summary: Elvish completion for pixi
-  maintainers:
-    - metcya@gmail.com
-  licenses:
-    - BSD-3-Clause
-  categories:
-    - Unspecified
 - repo: terra_41
   srcname: pixi
   binname: pixi-fish-completion
