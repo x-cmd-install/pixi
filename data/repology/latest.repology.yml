@@ -374,9 +374,9 @@
   srcname: mingw-w64-pixi
   binname: mingw-w64-clang-x86_64-pixi
   visiblename: mingw-w64-clang-x86_64-pixi
-  version: 0.83.0
-  origversion: 0.83.0-1
-  status: outdated
+  version: 0.84.1
+  origversion: 0.84.1-1
+  status: newest
   summary: A fast, modern, and reproducible package management tool for developers of all backgrounds. (mingw-w64)
   licenses:
     - spdx:BSD-3-Clause
@@ -384,9 +384,9 @@
   srcname: mingw-w64-pixi
   binname: mingw-w64-clang-aarch64-pixi
   visiblename: mingw-w64-clang-aarch64-pixi
-  version: 0.83.0
-  origversion: 0.83.0-1
-  status: outdated
+  version: 0.84.1
+  origversion: 0.84.1-1
+  status: newest
   summary: A fast, modern, and reproducible package management tool for developers of all backgrounds. (mingw-w64)
   licenses:
     - spdx:BSD-3-Clause
@@ -394,9 +394,9 @@
   srcname: mingw-w64-pixi
   binname: mingw-w64-ucrt-x86_64-pixi
   visiblename: mingw-w64-ucrt-x86_64-pixi
-  version: 0.83.0
-  origversion: 0.83.0-1
-  status: outdated
+  version: 0.84.1
+  origversion: 0.84.1-1
+  status: newest
   summary: A fast, modern, and reproducible package management tool for developers of all backgrounds. (mingw-w64)
   licenses:
     - spdx:BSD-3-Clause
@@ -477,9 +477,9 @@
   srcname: pixi
   binname: pixi
   visiblename: pixi
-  version: 0.84.0
-  origversion: 0.84.0-1
-  status: outdated
+  version: 0.84.1
+  origversion: 0.84.1-1
+  status: newest
   summary: A package management and workflow tool
   licenses:
     - BSD-3-Clause
@@ -627,8 +627,8 @@
   srcname: pixi
   binname: pixi
   visiblename: pixi
-  version: 0.82.0
-  origversion: 0.82.0-1.fcrawhide
+  version: 0.84.0
+  origversion: 0.84.0-1.fcrawhide
   status: legacy
   summary: A cross-platform, multi-language package manager
   maintainers:
@@ -641,8 +641,8 @@
   srcname: pixi
   binname: pixi-debuginfo
   visiblename: pixi-debuginfo
-  version: 0.82.0
-  origversion: 0.82.0-1.fcrawhide
+  version: 0.84.0
+  origversion: 0.84.0-1.fcrawhide
   status: legacy
   summary: Debug information for package pixi
   maintainers:
@@ -655,8 +655,8 @@
   srcname: pixi
   binname: pixi-debugsource
   visiblename: pixi-debugsource
-  version: 0.82.0
-  origversion: 0.82.0-1.fcrawhide
+  version: 0.84.0
+  origversion: 0.84.0-1.fcrawhide
   status: legacy
   summary: Debug sources for package pixi
   maintainers:
@@ -669,9 +669,9 @@
   srcname: pixi
   binname: pixi
   visiblename: pixi
-  version: 0.82.1
-  origversion: 0.82.1-1.fcrawhide
-  status: outdated
+  version: 0.84.1
+  origversion: 0.84.1-1.fcrawhide
+  status: newest
   summary: A cross-platform, multi-language package manager
   maintainers:
     - git@olivia.sh
@@ -683,9 +683,9 @@
   srcname: pixi
   binname: pixi-bash-completion
   visiblename: pixi-bash-completion
-  version: 0.82.1
-  origversion: 0.82.1-1.fcrawhide
-  status: outdated
+  version: 0.84.1
+  origversion: 0.84.1-1.fcrawhide
+  status: newest
   summary: Bash completion for pixi
   maintainers:
     - git@olivia.sh
@@ -697,9 +697,9 @@
   srcname: pixi
   binname: pixi-debuginfo
   visiblename: pixi-debuginfo
-  version: 0.82.1
-  origversion: 0.82.1-1.fcrawhide
-  status: outdated
+  version: 0.84.1
+  origversion: 0.84.1-1.fcrawhide
+  status: newest
   summary: Debug information for package pixi
   maintainers:
     - git@olivia.sh
@@ -711,9 +711,9 @@
   srcname: pixi
   binname: pixi-debugsource
   visiblename: pixi-debugsource
-  version: 0.82.1
-  origversion: 0.82.1-1.fcrawhide
-  status: outdated
+  version: 0.84.1
+  origversion: 0.84.1-1.fcrawhide
+  status: newest
   summary: Debug sources for package pixi
   maintainers:
     - git@olivia.sh
@@ -725,9 +725,9 @@
   srcname: pixi
   binname: pixi-elvish-completion
   visiblename: pixi-elvish-completion
-  version: 0.82.1
-  origversion: 0.82.1-1.fcrawhide
-  status: outdated
+  version: 0.84.1
+  origversion: 0.84.1-1.fcrawhide
+  status: newest
   summary: Elvish completion for pixi
   maintainers:
     - git@olivia.sh
@@ -739,9 +739,9 @@
   srcname: pixi
   binname: pixi-fish-completion
   visiblename: pixi-fish-completion
-  version: 0.82.1
-  origversion: 0.82.1-1.fcrawhide
-  status: outdated
+  version: 0.84.1
+  origversion: 0.84.1-1.fcrawhide
+  status: newest
   summary: Fish completion for pixi
   maintainers:
     - git@olivia.sh
@@ -753,9 +753,9 @@
   srcname: pixi
   binname: pixi-nushell-completion
   visiblename: pixi-nushell-completion
-  version: 0.82.1
-  origversion: 0.82.1-1.fcrawhide
-  status: outdated
+  version: 0.84.1
+  origversion: 0.84.1-1.fcrawhide
+  status: newest
   summary: Nushell completion for pixi
   maintainers:
     - git@olivia.sh
@@ -767,9 +767,9 @@
   srcname: pixi
   binname: pixi-zsh-completion
   visiblename: pixi-zsh-completion
-  version: 0.82.1
-  origversion: 0.82.1-1.fcrawhide
-  status: outdated
+  version: 0.84.1
+  origversion: 0.84.1-1.fcrawhide
+  status: newest
   summary: Zsh completion for pixi
   maintainers:
     - git@olivia.sh
