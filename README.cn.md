@@ -30,8 +30,8 @@ x install pixi
 
 评分最低的几项:
 
-- **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
 - **Binary-Artifacts** (1/10) — binaries present in source code
 
 ## 源代码
@@ -48,7 +48,7 @@ x install pixi
 
 ## 流行度
 
-- **Star**: 7,960 · **Fork**: 597 · **开放 issue**: 2,785 · **贡献者**: 305
+- **Star**: 7,960 · **Fork**: 596 · **开放 issue**: 2,785 · **贡献者**: 305
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install pixi
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 5 | 156 | 26 | 19 | 38 | 176 |
-| last60d | 2026-09-08 | 6 | 250 | 53 | 45 | 63 | 259 |
-| 90d | 2026-08-09 | 12 | 348 | 65 | 64 | 89 | 354 |
-| last180d | 2026-05-11 | 29 | 730 | 89 | 213 | 156 | 761 |
-| 360d | 2025-11-12 | 44 | 1263 | 105 | 492 | 249 | 1264 |
-| last720d | 2024-11-17 | 91 | 2351 | 112 | 1299 | 450 | 2341 |
+| 30d | 2026-10-09 | 5 | 149 | 26 | 19 | 35 | 176 |
+| last60d | 2026-09-09 | 6 | 241 | 53 | 45 | 63 | 259 |
+| 90d | 2026-08-10 | 12 | 344 | 65 | 63 | 89 | 354 |
+| last180d | 2026-05-12 | 29 | 715 | 89 | 206 | 154 | 761 |
+| 360d | 2025-11-13 | 44 | 1261 | 105 | 491 | 247 | 1264 |
+| last720d | 2024-11-18 | 91 | 2346 | 112 | 1298 | 449 | 2341 |
 
 ## Release 资产
 
@@ -100,17 +100,6 @@ x install pixi
 | [source.tar.gz](https://github.com/prefix-dev/pixi/releases/download/v0.84.1/source.tar.gz) | 19.4 MiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/prefix-dev/pixi/releases/download/v0.84.1/source.tar.gz.sha256) | 80 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/pixi) 上共有 **51** 个发行版报告此项目。**19** 个 ✅ 已是最新上游版本，**25** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `0.84.1` | ✅ latest |
-| Homebrew | `0.84.1` | ✅ latest |
-| Nix unstable | `0.83.0` | ⚠️ outdated |
-| Alpine edge | `0.24.2` | ⚠️ outdated |
-
 ## 改进这些数据
 
 pixi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `pixi` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -120,4 +109,4 @@ pixi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261107.yml` · 2026-11-07T06:27:49Z._
+_数据快照: `data/card/261108.yml` · 2026-11-08T06:34:00Z._
