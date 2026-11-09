@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,960 · **Forks**: 596 · **Open issues**: 2,785 · **Contributors**: 305
+- **Stars**: 7,963 · **Forks**: 596 · **Open issues**: 2,786 · **Contributors**: 305
 
 ## Totals (cumulative)
 
-- **Releases**: 153 · **Merged PRs**: 3549 · **Open PRs**: 112 · **Closed issues**: 2231 · **Open issues**: 554 · **Commits**: 3865
+- **Releases**: 153 · **Merged PRs**: 3549 · **Open PRs**: 112 · **Closed issues**: 2231 · **Open issues**: 555 · **Commits**: 3865
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 5 | 149 | 26 | 19 | 35 | 176 |
-| last60d | 2026-09-09 | 6 | 241 | 53 | 45 | 63 | 259 |
-| 90d | 2026-08-10 | 12 | 344 | 65 | 63 | 89 | 354 |
-| last180d | 2026-05-12 | 29 | 715 | 89 | 206 | 154 | 761 |
-| 360d | 2025-11-13 | 44 | 1261 | 105 | 491 | 247 | 1264 |
-| last720d | 2024-11-18 | 91 | 2346 | 112 | 1298 | 449 | 2341 |
+| 30d | 2026-10-10 | 5 | 148 | 25 | 17 | 35 | 129 |
+| last60d | 2026-09-10 | 6 | 241 | 53 | 44 | 64 | 242 |
+| 90d | 2026-08-11 | 11 | 338 | 65 | 63 | 89 | 341 |
+| last180d | 2026-05-13 | 28 | 705 | 89 | 204 | 155 | 723 |
+| 360d | 2025-11-14 | 44 | 1260 | 105 | 491 | 247 | 1254 |
+| last720d | 2024-11-19 | 90 | 2338 | 112 | 1291 | 450 | 2334 |
 
 ## Release assets
 
@@ -100,6 +100,17 @@ Lowest-scoring checks:
 | [source.tar.gz](https://github.com/prefix-dev/pixi/releases/download/v0.84.1/source.tar.gz) | 19.4 MiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/prefix-dev/pixi/releases/download/v0.84.1/source.tar.gz.sha256) | 80 B | `other` |
 
+## Distribution status
+
+Reported by **51** distros on [repology.org](https://repology.org/project/pixi). **20** are ✅ on the latest upstream release, **24** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.84.1` | ✅ latest |
+| Homebrew | `0.84.1` | ✅ latest |
+| Nix unstable | `0.83.0` | ⚠️ outdated |
+| Alpine edge | `0.24.2` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for pixi lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pixi` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -109,4 +120,4 @@ Install metadata for pixi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:33:59Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T07:03:23Z._
