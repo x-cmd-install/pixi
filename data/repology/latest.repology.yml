@@ -1,3 +1,17 @@
+- repo: terra_41
+  srcname: pixi
+  binname: pixi-debugsource
+  visiblename: pixi-debugsource
+  version: 0.62.1
+  origversion: 0.62.1-1.fc41
+  status: outdated
+  summary: Debug sources for package pixi
+  maintainers:
+    - metcya@gmail.com
+  licenses:
+    - BSD-3-Clause
+  categories:
+    - Development/Debug
 - repo: alpine_edge
   subrepo: testing
   srcname: pixi
@@ -262,9 +276,9 @@
   srcname: pixi
   binname: pixi
   visiblename: pixi
-  version: 0.83.0
-  origversion: 0.83.0-1
-  status: outdated
+  version: 0.84.1
+  origversion: 0.84.1-1
+  status: newest
   summary: A package management and workflow tool
   licenses:
     - BSD-3-Clause
@@ -465,20 +479,6 @@
   origversion: 0.62.1-1.fc41
   status: outdated
   summary: Debug information for package pixi
-  maintainers:
-    - metcya@gmail.com
-  licenses:
-    - BSD-3-Clause
-  categories:
-    - Development/Debug
-- repo: terra_41
-  srcname: pixi
-  binname: pixi-debugsource
-  visiblename: pixi-debugsource
-  version: 0.62.1
-  origversion: 0.62.1-1.fc41
-  status: outdated
-  summary: Debug sources for package pixi
   maintainers:
     - metcya@gmail.com
   licenses:
