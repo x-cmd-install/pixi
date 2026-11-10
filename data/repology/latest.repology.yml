@@ -1,17 +1,27 @@
-- repo: terra_41
+- repo: nix_stable_24_05
   srcname: pixi
-  binname: pixi-debugsource
-  visiblename: pixi-debugsource
-  version: 0.62.1
-  origversion: 0.62.1-1.fc41
+  visiblename: pixi
+  version: 0.20.0
+  origversion: null
   status: outdated
-  summary: Debug sources for package pixi
+  summary: Package management made easy
   maintainers:
-    - metcya@gmail.com
+    - wentworth@outlook.com
+    - git@edmundmiller.dev
   licenses:
     - BSD-3-Clause
-  categories:
-    - Development/Debug
+- repo: nix_stable_25_05
+  srcname: pixi
+  visiblename: pixi
+  version: 0.46.0
+  origversion: null
+  status: outdated
+  summary: Package management made easy
+  maintainers:
+    - git@edmundmiller.dev
+    - xiaoxiangmoe@gmail.com
+  licenses:
+    - BSD-3-Clause
 - repo: alpine_edge
   subrepo: testing
   srcname: pixi
@@ -23,6 +33,18 @@
   summary: A package management and workflow tool
   maintainers:
     - orhunparmaksiz@gmail.com
+  licenses:
+    - BSD-3-Clause
+- repo: nix_stable_25_11
+  srcname: pixi
+  visiblename: pixi
+  version: 0.59.0
+  origversion: null
+  status: outdated
+  summary: Package management made easy
+  maintainers:
+    - git@edmundmiller.dev
+    - xiaoxiangmoe@gmail.com
   licenses:
     - BSD-3-Clause
 - repo: alpine_edge
@@ -159,6 +181,16 @@
   origversion: null
   status: rolling
   summary: Package management made easy
+- repo: msys2_ucrt64
+  srcname: mingw-w64-pixi
+  binname: mingw-w64-ucrt-x86_64-pixi
+  visiblename: mingw-w64-ucrt-x86_64-pixi
+  version: 0.84.1
+  origversion: 0.84.1-1
+  status: newest
+  summary: A fast, modern, and reproducible package management tool for developers of all backgrounds. (mingw-w64)
+  licenses:
+    - spdx:BSD-3-Clause
 - repo: liguros_stable
   srcname: dev-util/pixi
   visiblename: dev-util/pixi
@@ -313,28 +345,6 @@
   summary: A fast, modern, and reproducible package management tool for developers of all backgrounds. (mingw-w64)
   licenses:
     - spdx:BSD-3-Clause
-- repo: msys2_ucrt64
-  srcname: mingw-w64-pixi
-  binname: mingw-w64-ucrt-x86_64-pixi
-  visiblename: mingw-w64-ucrt-x86_64-pixi
-  version: 0.84.1
-  origversion: 0.84.1-1
-  status: newest
-  summary: A fast, modern, and reproducible package management tool for developers of all backgrounds. (mingw-w64)
-  licenses:
-    - spdx:BSD-3-Clause
-- repo: nix_stable_24_05
-  srcname: pixi
-  visiblename: pixi
-  version: 0.20.0
-  origversion: null
-  status: outdated
-  summary: Package management made easy
-  maintainers:
-    - wentworth@outlook.com
-    - git@edmundmiller.dev
-  licenses:
-    - BSD-3-Clause
 - repo: nix_stable_24_11
   srcname: pixi
   visiblename: pixi
@@ -345,30 +355,6 @@
   maintainers:
     - wentworth@outlook.com
     - git@edmundmiller.dev
-  licenses:
-    - BSD-3-Clause
-- repo: nix_stable_25_05
-  srcname: pixi
-  visiblename: pixi
-  version: 0.46.0
-  origversion: null
-  status: outdated
-  summary: Package management made easy
-  maintainers:
-    - git@edmundmiller.dev
-    - xiaoxiangmoe@gmail.com
-  licenses:
-    - BSD-3-Clause
-- repo: nix_stable_25_11
-  srcname: pixi
-  visiblename: pixi
-  version: 0.59.0
-  origversion: null
-  status: outdated
-  summary: Package management made easy
-  maintainers:
-    - git@edmundmiller.dev
-    - xiaoxiangmoe@gmail.com
   licenses:
     - BSD-3-Clause
 - repo: nix_stable_26_05
@@ -479,6 +465,20 @@
   origversion: 0.62.1-1.fc41
   status: outdated
   summary: Debug information for package pixi
+  maintainers:
+    - metcya@gmail.com
+  licenses:
+    - BSD-3-Clause
+  categories:
+    - Development/Debug
+- repo: terra_41
+  srcname: pixi
+  binname: pixi-debugsource
+  visiblename: pixi-debugsource
+  version: 0.62.1
+  origversion: 0.62.1-1.fc41
+  status: outdated
+  summary: Debug sources for package pixi
   maintainers:
     - metcya@gmail.com
   licenses:
