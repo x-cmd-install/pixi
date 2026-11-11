@@ -1,27 +1,3 @@
-- repo: nix_stable_24_05
-  srcname: pixi
-  visiblename: pixi
-  version: 0.20.0
-  origversion: null
-  status: outdated
-  summary: Package management made easy
-  maintainers:
-    - wentworth@outlook.com
-    - git@edmundmiller.dev
-  licenses:
-    - BSD-3-Clause
-- repo: nix_stable_25_05
-  srcname: pixi
-  visiblename: pixi
-  version: 0.46.0
-  origversion: null
-  status: outdated
-  summary: Package management made easy
-  maintainers:
-    - git@edmundmiller.dev
-    - xiaoxiangmoe@gmail.com
-  licenses:
-    - BSD-3-Clause
 - repo: alpine_edge
   subrepo: testing
   srcname: pixi
@@ -33,18 +9,6 @@
   summary: A package management and workflow tool
   maintainers:
     - orhunparmaksiz@gmail.com
-  licenses:
-    - BSD-3-Clause
-- repo: nix_stable_25_11
-  srcname: pixi
-  visiblename: pixi
-  version: 0.59.0
-  origversion: null
-  status: outdated
-  summary: Package management made easy
-  maintainers:
-    - git@edmundmiller.dev
-    - xiaoxiangmoe@gmail.com
   licenses:
     - BSD-3-Clause
 - repo: alpine_edge
@@ -105,7 +69,7 @@
   visiblename: pixi
   version: 0.84.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Package manager tool for multiple programming languages.
   maintainers:
     - fallback-mnt-aosc@repology
@@ -116,8 +80,8 @@
   srcname: pixi
   binname: pixi
   visiblename: pixi
-  version: 0.84.1
-  origversion: 0.84.1-1
+  version: 0.84.2
+  origversion: 0.84.2-1
   status: newest
   summary: A package management and workflow tool
   licenses:
@@ -146,7 +110,7 @@
   visiblename: dev-util/pixi
   version: 0.84.1
   origversion: null
-  status: newest
+  status: outdated
   summary: A package management and workflow tool
   maintainers:
     - mgorny@gentoo.org
@@ -170,7 +134,7 @@
 - repo: homebrew
   srcname: pixi
   visiblename: pixi
-  version: 0.84.1
+  version: 0.84.2
   origversion: null
   status: newest
   summary: Package management made easy
@@ -181,16 +145,6 @@
   origversion: null
   status: rolling
   summary: Package management made easy
-- repo: msys2_ucrt64
-  srcname: mingw-w64-pixi
-  binname: mingw-w64-ucrt-x86_64-pixi
-  visiblename: mingw-w64-ucrt-x86_64-pixi
-  version: 0.84.1
-  origversion: 0.84.1-1
-  status: newest
-  summary: A fast, modern, and reproducible package management tool for developers of all backgrounds. (mingw-w64)
-  licenses:
-    - spdx:BSD-3-Clause
 - repo: liguros_stable
   srcname: dev-util/pixi
   visiblename: dev-util/pixi
@@ -216,6 +170,30 @@
     - BZIP2
   categories:
     - dev-util
+- repo: nix_stable_25_05
+  srcname: pixi
+  visiblename: pixi
+  version: 0.46.0
+  origversion: null
+  status: outdated
+  summary: Package management made easy
+  maintainers:
+    - git@edmundmiller.dev
+    - xiaoxiangmoe@gmail.com
+  licenses:
+    - BSD-3-Clause
+- repo: nix_stable_25_11
+  srcname: pixi
+  visiblename: pixi
+  version: 0.59.0
+  origversion: null
+  status: outdated
+  summary: Package management made easy
+  maintainers:
+    - git@edmundmiller.dev
+    - xiaoxiangmoe@gmail.com
+  licenses:
+    - BSD-3-Clause
 - repo: liguros_stable
   srcname: dev-util/pixi
   visiblename: dev-util/pixi
@@ -271,7 +249,7 @@
   visiblename: dev-util/pixi
   version: 0.84.1
   origversion: null
-  status: newest
+  status: outdated
   summary: A package management and workflow tool
   maintainers:
     - mgorny@gentoo.org
@@ -310,7 +288,7 @@
   visiblename: pixi
   version: 0.84.1
   origversion: 0.84.1-1
-  status: newest
+  status: outdated
   summary: A package management and workflow tool
   licenses:
     - BSD-3-Clause
@@ -321,7 +299,7 @@
   visiblename: pixi
   version: 0.84.1
   origversion: 0.84.1-1
-  status: newest
+  status: outdated
   summary: A package management and workflow tool
   licenses:
     - BSD-3-Clause
@@ -331,7 +309,7 @@
   visiblename: mingw-w64-clang-x86_64-pixi
   version: 0.84.1
   origversion: 0.84.1-1
-  status: newest
+  status: outdated
   summary: A fast, modern, and reproducible package management tool for developers of all backgrounds. (mingw-w64)
   licenses:
     - spdx:BSD-3-Clause
@@ -341,10 +319,32 @@
   visiblename: mingw-w64-clang-aarch64-pixi
   version: 0.84.1
   origversion: 0.84.1-1
-  status: newest
+  status: outdated
   summary: A fast, modern, and reproducible package management tool for developers of all backgrounds. (mingw-w64)
   licenses:
     - spdx:BSD-3-Clause
+- repo: msys2_ucrt64
+  srcname: mingw-w64-pixi
+  binname: mingw-w64-ucrt-x86_64-pixi
+  visiblename: mingw-w64-ucrt-x86_64-pixi
+  version: 0.84.1
+  origversion: 0.84.1-1
+  status: outdated
+  summary: A fast, modern, and reproducible package management tool for developers of all backgrounds. (mingw-w64)
+  licenses:
+    - spdx:BSD-3-Clause
+- repo: nix_stable_24_05
+  srcname: pixi
+  visiblename: pixi
+  version: 0.20.0
+  origversion: null
+  status: outdated
+  summary: Package management made easy
+  maintainers:
+    - wentworth@outlook.com
+    - git@edmundmiller.dev
+  licenses:
+    - BSD-3-Clause
 - repo: nix_stable_24_11
   srcname: pixi
   visiblename: pixi
@@ -388,7 +388,7 @@
   visiblename: pixi
   version: 0.84.1
   origversion: 0.84.1-1
-  status: newest
+  status: outdated
   summary: A package management and workflow tool
   licenses:
     - BSD-3-Clause
@@ -396,7 +396,7 @@
   subrepo: main
   binname: pixi
   visiblename: pixi
-  version: 0.84.1
+  version: 0.84.2
   origversion: null
   status: newest
   licenses:
@@ -589,7 +589,7 @@
   visiblename: pixi
   version: 0.84.1
   origversion: 0.84.1-1.fcrawhide
-  status: newest
+  status: outdated
   summary: A cross-platform, multi-language package manager
   maintainers:
     - git@olivia.sh
@@ -603,7 +603,7 @@
   visiblename: pixi-bash-completion
   version: 0.84.1
   origversion: 0.84.1-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Bash completion for pixi
   maintainers:
     - git@olivia.sh
@@ -617,7 +617,7 @@
   visiblename: pixi-debuginfo
   version: 0.84.1
   origversion: 0.84.1-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug information for package pixi
   maintainers:
     - git@olivia.sh
@@ -631,7 +631,7 @@
   visiblename: pixi-debugsource
   version: 0.84.1
   origversion: 0.84.1-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug sources for package pixi
   maintainers:
     - git@olivia.sh
@@ -645,7 +645,7 @@
   visiblename: pixi-elvish-completion
   version: 0.84.1
   origversion: 0.84.1-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Elvish completion for pixi
   maintainers:
     - git@olivia.sh
@@ -659,7 +659,7 @@
   visiblename: pixi-fish-completion
   version: 0.84.1
   origversion: 0.84.1-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Fish completion for pixi
   maintainers:
     - git@olivia.sh
@@ -673,7 +673,7 @@
   visiblename: pixi-nushell-completion
   version: 0.84.1
   origversion: 0.84.1-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Nushell completion for pixi
   maintainers:
     - git@olivia.sh
@@ -687,7 +687,7 @@
   visiblename: pixi-zsh-completion
   version: 0.84.1
   origversion: 0.84.1-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Zsh completion for pixi
   maintainers:
     - git@olivia.sh
