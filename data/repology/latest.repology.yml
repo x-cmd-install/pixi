@@ -639,9 +639,9 @@
   srcname: pixi
   binname: pixi
   visiblename: pixi
-  version: 0.84.1
-  origversion: 0.84.1-1.fcrawhide
-  status: outdated
+  version: 0.84.2
+  origversion: 0.84.2-1.fcrawhide
+  status: newest
   summary: A cross-platform, multi-language package manager
   maintainers:
     - git@olivia.sh
@@ -653,9 +653,9 @@
   srcname: pixi
   binname: pixi-bash-completion
   visiblename: pixi-bash-completion
-  version: 0.84.1
-  origversion: 0.84.1-1.fcrawhide
-  status: outdated
+  version: 0.84.2
+  origversion: 0.84.2-1.fcrawhide
+  status: newest
   summary: Bash completion for pixi
   maintainers:
     - git@olivia.sh
@@ -667,9 +667,9 @@
   srcname: pixi
   binname: pixi-debuginfo
   visiblename: pixi-debuginfo
-  version: 0.84.1
-  origversion: 0.84.1-1.fcrawhide
-  status: outdated
+  version: 0.84.2
+  origversion: 0.84.2-1.fcrawhide
+  status: newest
   summary: Debug information for package pixi
   maintainers:
     - git@olivia.sh
@@ -681,9 +681,9 @@
   srcname: pixi
   binname: pixi-debugsource
   visiblename: pixi-debugsource
-  version: 0.84.1
-  origversion: 0.84.1-1.fcrawhide
-  status: outdated
+  version: 0.84.2
+  origversion: 0.84.2-1.fcrawhide
+  status: newest
   summary: Debug sources for package pixi
   maintainers:
     - git@olivia.sh
@@ -695,9 +695,9 @@
   srcname: pixi
   binname: pixi-elvish-completion
   visiblename: pixi-elvish-completion
-  version: 0.84.1
-  origversion: 0.84.1-1.fcrawhide
-  status: outdated
+  version: 0.84.2
+  origversion: 0.84.2-1.fcrawhide
+  status: newest
   summary: Elvish completion for pixi
   maintainers:
     - git@olivia.sh
@@ -709,9 +709,9 @@
   srcname: pixi
   binname: pixi-fish-completion
   visiblename: pixi-fish-completion
-  version: 0.84.1
-  origversion: 0.84.1-1.fcrawhide
-  status: outdated
+  version: 0.84.2
+  origversion: 0.84.2-1.fcrawhide
+  status: newest
   summary: Fish completion for pixi
   maintainers:
     - git@olivia.sh
@@ -723,9 +723,9 @@
   srcname: pixi
   binname: pixi-nushell-completion
   visiblename: pixi-nushell-completion
-  version: 0.84.1
-  origversion: 0.84.1-1.fcrawhide
-  status: outdated
+  version: 0.84.2
+  origversion: 0.84.2-1.fcrawhide
+  status: newest
   summary: Nushell completion for pixi
   maintainers:
     - git@olivia.sh
@@ -737,9 +737,9 @@
   srcname: pixi
   binname: pixi-zsh-completion
   visiblename: pixi-zsh-completion
-  version: 0.84.1
-  origversion: 0.84.1-1.fcrawhide
-  status: outdated
+  version: 0.84.2
+  origversion: 0.84.2-1.fcrawhide
+  status: newest
   summary: Zsh completion for pixi
   maintainers:
     - git@olivia.sh
