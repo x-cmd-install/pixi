@@ -101,9 +101,9 @@
 - repo: chocolatey
   binname: pixi
   visiblename: Pixi
-  version: 0.83.0
+  version: 0.84.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Pixi is a cross-platform, multi-language package manager and workflow tool built on the conda ecosystem.
 - repo: gentoo
   srcname: dev-util/pixi
@@ -131,6 +131,20 @@
     - BZIP2
   categories:
     - dev-util
+- repo: terra_41
+  srcname: pixi
+  binname: pixi
+  visiblename: pixi
+  version: 0.62.1
+  origversion: 0.62.1-1.fc41
+  status: outdated
+  summary: A cross-platform, multi-language package manager
+  maintainers:
+    - metcya@gmail.com
+  licenses:
+    - BSD-3-Clause
+  categories:
+    - Unspecified
 - repo: gentoo
   srcname: dev-util/pixi
   visiblename: dev-util/pixi
@@ -467,20 +481,6 @@
   status: newest
   licenses:
     - BSD-3-Clause
-- repo: terra_41
-  srcname: pixi
-  binname: pixi
-  visiblename: pixi
-  version: 0.62.1
-  origversion: 0.62.1-1.fc41
-  status: outdated
-  summary: A cross-platform, multi-language package manager
-  maintainers:
-    - metcya@gmail.com
-  licenses:
-    - BSD-3-Clause
-  categories:
-    - Unspecified
 - repo: terra_41
   srcname: pixi
   binname: pixi-bash-completion
