@@ -342,9 +342,9 @@
   srcname: pixi
   binname: pixi
   visiblename: pixi
-  version: 0.84.1
-  origversion: 0.84.1-1
-  status: outdated
+  version: 0.84.2
+  origversion: 0.84.2-1
+  status: newest
   summary: A package management and workflow tool
   licenses:
     - BSD-3-Clause
