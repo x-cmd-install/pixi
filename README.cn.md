@@ -30,8 +30,8 @@ x install pixi
 
 评分最低的几项:
 
-- **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
 - **Binary-Artifacts** (1/10) — binaries present in source code
 
 ## 源代码
@@ -48,7 +48,7 @@ x install pixi
 
 ## 流行度
 
-- **Star**: 8,003 · **Fork**: 600 · **开放 issue**: 2,813 · **贡献者**: 308
+- **Star**: 8,004 · **Fork**: 600 · **开放 issue**: 2,813 · **贡献者**: 308
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install pixi
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 4 | 120 | 20 | 20 | 38 | 0 |
-| last60d | 2026-09-22 | 6 | 260 | 24 | 49 | 69 | 0 |
-| 90d | 2026-08-23 | 11 | 343 | 26 | 66 | 98 | 0 |
-| last180d | 2026-05-25 | 28 | 714 | 31 | 201 | 160 | 0 |
-| 360d | 2025-11-26 | 45 | 1276 | 32 | 487 | 258 | 0 |
-| last720d | 2024-12-01 | 90 | 2342 | 32 | 1282 | 455 | 2341 |
+| 30d | 2026-10-23 | 3 | 118 | 20 | 20 | 37 | 101 |
+| last60d | 2026-09-23 | 6 | 259 | 24 | 49 | 69 | 260 |
+| 90d | 2026-08-24 | 11 | 340 | 26 | 66 | 98 | 328 |
+| last180d | 2026-05-26 | 28 | 696 | 31 | 197 | 160 | 705 |
+| 360d | 2025-11-27 | 45 | 1275 | 32 | 482 | 258 | 1240 |
+| last720d | 2024-12-02 | 90 | 2336 | 32 | 1278 | 455 | 2341 |
 
 ## Release 资产
 
@@ -120,4 +120,4 @@ pixi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261121.yml` · 2026-11-21T08:17:01Z._
+_数据快照: `data/card/261122.yml` · 2026-11-22T08:27:38Z._
