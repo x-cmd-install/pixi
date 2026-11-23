@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,004 · **Forks**: 600 · **Open issues**: 2,813 · **Contributors**: 308
+- **Stars**: 8,006 · **Forks**: 602 · **Open issues**: 2,814 · **Contributors**: 308
 
 ## Totals (cumulative)
 
-- **Releases**: 154 · **Merged PRs**: 3595 · **Open PRs**: 32 · **Closed issues**: 2248 · **Open issues**: 565 · **Commits**: 3911
+- **Releases**: 154 · **Merged PRs**: 3595 · **Open PRs**: 32 · **Closed issues**: 2249 · **Open issues**: 565 · **Commits**: 3911
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 3 | 118 | 20 | 20 | 37 | 101 |
-| last60d | 2026-09-23 | 6 | 259 | 24 | 49 | 69 | 260 |
-| 90d | 2026-08-24 | 11 | 340 | 26 | 66 | 98 | 328 |
-| last180d | 2026-05-26 | 28 | 696 | 31 | 197 | 160 | 705 |
-| 360d | 2025-11-27 | 45 | 1275 | 32 | 482 | 258 | 1240 |
-| last720d | 2024-12-02 | 90 | 2336 | 32 | 1278 | 455 | 2341 |
+| 30d | 2026-10-24 | 3 | 118 | 20 | 18 | 37 | 101 |
+| last60d | 2026-09-24 | 6 | 259 | 24 | 49 | 69 | 260 |
+| 90d | 2026-08-25 | 10 | 332 | 26 | 65 | 98 | 328 |
+| last180d | 2026-05-27 | 28 | 692 | 31 | 197 | 161 | 705 |
+| 360d | 2025-11-28 | 45 | 1269 | 32 | 480 | 259 | 1240 |
+| last720d | 2024-12-03 | 89 | 2324 | 32 | 1272 | 455 | 2334 |
 
 ## Release assets
 
@@ -120,4 +120,4 @@ Install metadata for pixi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T08:27:36Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T10:05:48Z._
