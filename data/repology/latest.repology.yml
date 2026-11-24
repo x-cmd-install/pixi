@@ -1,27 +1,17 @@
-- repo: nix_stable_25_05
+- repo: homebrew
   srcname: pixi
   visiblename: pixi
-  version: 0.46.0
+  version: HEAD
   origversion: null
-  status: outdated
+  status: rolling
   summary: Package management made easy
-  maintainers:
-    - git@edmundmiller.dev
-    - xiaoxiangmoe@gmail.com
-  licenses:
-    - BSD-3-Clause
-- repo: nix_stable_25_11
+- repo: homebrew
   srcname: pixi
   visiblename: pixi
-  version: 0.59.0
+  version: 0.84.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Package management made easy
-  maintainers:
-    - git@edmundmiller.dev
-    - xiaoxiangmoe@gmail.com
-  licenses:
-    - BSD-3-Clause
 - repo: alpine_edge
   subrepo: testing
   srcname: pixi
@@ -181,20 +171,6 @@
     - BZIP2
   categories:
     - dev-util
-- repo: homebrew
-  srcname: pixi
-  visiblename: pixi
-  version: 0.84.2
-  origversion: null
-  status: newest
-  summary: Package management made easy
-- repo: homebrew
-  srcname: pixi
-  visiblename: pixi
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Package management made easy
 - repo: liguros_stable
   srcname: dev-util/pixi
   visiblename: dev-util/pixi
@@ -327,9 +303,9 @@
   srcname: pixi
   binname: pixi
   visiblename: pixi
-  version: 0.81.0
-  origversion: 0.81.0-1
-  status: outdated
+  version: 0.84.2
+  origversion: 0.84.2-1
+  status: newest
   summary: A package management and workflow tool
   licenses:
     - BSD-3-Clause
@@ -407,6 +383,30 @@
   maintainers:
     - wentworth@outlook.com
     - git@edmundmiller.dev
+  licenses:
+    - BSD-3-Clause
+- repo: nix_stable_25_05
+  srcname: pixi
+  visiblename: pixi
+  version: 0.46.0
+  origversion: null
+  status: outdated
+  summary: Package management made easy
+  maintainers:
+    - git@edmundmiller.dev
+    - xiaoxiangmoe@gmail.com
+  licenses:
+    - BSD-3-Clause
+- repo: nix_stable_25_11
+  srcname: pixi
+  visiblename: pixi
+  version: 0.59.0
+  origversion: null
+  status: outdated
+  summary: Package management made easy
+  maintainers:
+    - git@edmundmiller.dev
+    - xiaoxiangmoe@gmail.com
   licenses:
     - BSD-3-Clause
 - repo: nix_stable_26_05
