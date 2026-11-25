@@ -14,15 +14,15 @@ x install pixi
 
 ## Code insight
 
-Total: **309,880** lines of code across **1563** files in the top 5 languages.
+Total: **310,749** lines of code across **1565** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 229,761 | 10,523 | 27,765 | 692 |
-| Python | 32,067 | 1,914 | 5,553 | 198 |
+| Rust | 230,071 | 10,527 | 27,776 | 692 |
+| Python | 32,112 | 1,915 | 5,559 | 199 |
 | Json | 30,591 | 0 | 0 | 89 |
-| Toml | 9,415 | 966 | 1,517 | 498 |
-| Yaml | 2,927 | 69 | 189 | 86 |
+| Toml | 9,416 | 966 | 1,517 | 498 |
+| Yaml | 3,440 | 95 | 189 | 87 |
 
 ## OpenSSF Scorecard
 
@@ -30,8 +30,8 @@ Overall score: **5.2 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Binary-Artifacts** (1/10) — binaries present in source code
 
 ## Source
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.84.2` (2026-11-10)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-25
 - **Assets in release**: 30
 
 ## Popularity
 
-- **Stars**: 8,012 · **Forks**: 605 · **Open issues**: 2,814 · **Contributors**: 310
+- **Stars**: 8,014 · **Forks**: 605 · **Open issues**: 2,816 · **Contributors**: 310
 
 ## Totals (cumulative)
 
-- **Releases**: 154 · **Merged PRs**: 3607 · **Open PRs**: 30 · **Closed issues**: 2252 · **Open issues**: 562 · **Commits**: 3923
+- **Releases**: 154 · **Merged PRs**: 3611 · **Open PRs**: 33 · **Closed issues**: 2252 · **Open issues**: 564 · **Commits**: 3927
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 3 | 129 | 19 | 21 | 33 | 113 |
-| last60d | 2026-09-25 | 6 | 268 | 22 | 51 | 64 | 272 |
-| 90d | 2026-08-26 | 10 | 342 | 24 | 68 | 94 | 340 |
-| last180d | 2026-05-28 | 28 | 699 | 29 | 197 | 157 | 717 |
-| 360d | 2025-11-29 | 45 | 1277 | 30 | 483 | 255 | 1252 |
-| last720d | 2024-12-04 | 89 | 2333 | 30 | 1271 | 452 | 2333 |
+| 30d | 2026-10-26 | 3 | 126 | 22 | 21 | 35 | 117 |
+| last60d | 2026-09-26 | 6 | 272 | 25 | 51 | 65 | 276 |
+| 90d | 2026-08-27 | 10 | 339 | 27 | 67 | 92 | 344 |
+| last180d | 2026-05-29 | 28 | 700 | 32 | 194 | 158 | 721 |
+| 360d | 2025-11-30 | 45 | 1280 | 33 | 483 | 257 | 1256 |
+| last720d | 2024-12-05 | 89 | 2332 | 33 | 1269 | 454 | 2333 |
 
 ## Release assets
 
@@ -100,17 +100,6 @@ Lowest-scoring checks:
 | [source.tar.gz](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/source.tar.gz) | 19.4 MiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/source.tar.gz.sha256) | 80 B | `other` |
 
-## Distribution status
-
-Reported by **53** distros on [repology.org](https://repology.org/project/pixi). **21** are ✅ on the latest upstream release, **23** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.84.2` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `0.84.2` | ✅ latest |
-| Alpine edge | `0.24.2` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for pixi lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pixi` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -120,4 +109,4 @@ Install metadata for pixi lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:28:19Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:53:22Z._

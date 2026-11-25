@@ -14,15 +14,15 @@ x install pixi
 
 ## 代码洞察
 
-合计: **309,880** 行代码（覆盖前 5 种语言、共 **1563** 个文件）。
+合计: **310,749** 行代码（覆盖前 5 种语言、共 **1565** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 229,761 | 10,523 | 27,765 | 692 |
-| Python | 32,067 | 1,914 | 5,553 | 198 |
+| Rust | 230,071 | 10,527 | 27,776 | 692 |
+| Python | 32,112 | 1,915 | 5,559 | 199 |
 | Json | 30,591 | 0 | 0 | 89 |
-| Toml | 9,415 | 966 | 1,517 | 498 |
-| Yaml | 2,927 | 69 | 189 | 86 |
+| Toml | 9,416 | 966 | 1,517 | 498 |
+| Yaml | 3,440 | 95 | 189 | 87 |
 
 ## OpenSSF Scorecard 评分
 
@@ -30,8 +30,8 @@ x install pixi
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Dangerous-Workflow** (0/10) — dangerous workflow patterns detected
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Binary-Artifacts** (1/10) — binaries present in source code
 
 ## 源代码
@@ -43,27 +43,27 @@ x install pixi
 ## 发布
 
 - **最新版本**: `v0.84.2` (2026-11-10)
-- **最近提交**: 2026-11-24
+- **最近提交**: 2026-11-25
 - **Release 含资产**: 30 个
 
 ## 流行度
 
-- **Star**: 8,012 · **Fork**: 605 · **开放 issue**: 2,814 · **贡献者**: 310
+- **Star**: 8,014 · **Fork**: 605 · **开放 issue**: 2,816 · **贡献者**: 310
 
 ## 累计统计
 
-- **发布数**: 154 · **已合并 PR**: 3607 · **开放 PR**: 30 · **已关闭 issue**: 2252 · **开放 issue**: 562 · **提交数**: 3923
+- **发布数**: 154 · **已合并 PR**: 3611 · **开放 PR**: 33 · **已关闭 issue**: 2252 · **开放 issue**: 564 · **提交数**: 3927
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 3 | 129 | 19 | 21 | 33 | 113 |
-| last60d | 2026-09-25 | 6 | 268 | 22 | 51 | 64 | 272 |
-| 90d | 2026-08-26 | 10 | 342 | 24 | 68 | 94 | 340 |
-| last180d | 2026-05-28 | 28 | 699 | 29 | 197 | 157 | 717 |
-| 360d | 2025-11-29 | 45 | 1277 | 30 | 483 | 255 | 1252 |
-| last720d | 2024-12-04 | 89 | 2333 | 30 | 1271 | 452 | 2333 |
+| 30d | 2026-10-26 | 3 | 126 | 22 | 21 | 35 | 117 |
+| last60d | 2026-09-26 | 6 | 272 | 25 | 51 | 65 | 276 |
+| 90d | 2026-08-27 | 10 | 339 | 27 | 67 | 92 | 344 |
+| last180d | 2026-05-29 | 28 | 700 | 32 | 194 | 158 | 721 |
+| 360d | 2025-11-30 | 45 | 1280 | 33 | 483 | 257 | 1256 |
+| last720d | 2024-12-05 | 89 | 2332 | 33 | 1269 | 454 | 2333 |
 
 ## Release 资产
 
@@ -100,17 +100,6 @@ x install pixi
 | [source.tar.gz](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/source.tar.gz) | 19.4 MiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/source.tar.gz.sha256) | 80 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/pixi) 上共有 **53** 个发行版报告此项目。**21** 个 ✅ 已是最新上游版本，**23** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `0.84.2` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `0.84.2` | ✅ latest |
-| Alpine edge | `0.24.2` | ⚠️ outdated |
-
 ## 改进这些数据
 
 pixi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `pixi` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -120,4 +109,4 @@ pixi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:28:20Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:53:23Z._
