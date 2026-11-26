@@ -14,14 +14,14 @@ x install pixi
 
 ## 代码洞察
 
-合计: **310,749** 行代码（覆盖前 5 种语言、共 **1565** 个文件）。
+合计: **311,154** 行代码（覆盖前 5 种语言、共 **1566** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 230,071 | 10,527 | 27,776 | 692 |
-| Python | 32,112 | 1,915 | 5,559 | 199 |
+| Rust | 230,442 | 10,533 | 27,817 | 693 |
+| Python | 32,145 | 1,915 | 5,564 | 199 |
 | Json | 30,591 | 0 | 0 | 89 |
-| Toml | 9,416 | 966 | 1,517 | 498 |
+| Toml | 9,417 | 966 | 1,517 | 498 |
 | Yaml | 3,440 | 95 | 189 | 87 |
 
 ## OpenSSF Scorecard 评分
@@ -42,63 +42,63 @@ x install pixi
 
 ## 发布
 
-- **最新版本**: `v0.84.2` (2026-11-10)
+- **最新版本**: `v0.85.0` (2026-11-25)
 - **最近提交**: 2026-11-25
 - **Release 含资产**: 30 个
 
 ## 流行度
 
-- **Star**: 8,014 · **Fork**: 605 · **开放 issue**: 2,816 · **贡献者**: 310
+- **Star**: 8,016 · **Fork**: 606 · **开放 issue**: 2,818 · **贡献者**: 311
 
 ## 累计统计
 
-- **发布数**: 154 · **已合并 PR**: 3611 · **开放 PR**: 33 · **已关闭 issue**: 2252 · **开放 issue**: 564 · **提交数**: 3927
+- **发布数**: 155 · **已合并 PR**: 3613 · **开放 PR**: 32 · **已关闭 issue**: 2252 · **开放 issue**: 566 · **提交数**: 3929
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 3 | 126 | 22 | 21 | 35 | 117 |
-| last60d | 2026-09-26 | 6 | 272 | 25 | 51 | 65 | 276 |
-| 90d | 2026-08-27 | 10 | 339 | 27 | 67 | 92 | 344 |
-| last180d | 2026-05-29 | 28 | 700 | 32 | 194 | 158 | 721 |
-| 360d | 2025-11-30 | 45 | 1280 | 33 | 483 | 257 | 1256 |
-| last720d | 2024-12-05 | 89 | 2332 | 33 | 1269 | 454 | 2333 |
+| 30d | 2026-10-27 | 4 | 115 | 21 | 18 | 34 | 119 |
+| last60d | 2026-09-27 | 7 | 273 | 24 | 51 | 64 | 278 |
+| 90d | 2026-08-28 | 11 | 337 | 25 | 66 | 93 | 346 |
+| last180d | 2026-05-30 | 29 | 702 | 31 | 194 | 160 | 723 |
+| 360d | 2025-12-01 | 46 | 1279 | 32 | 482 | 257 | 1258 |
+| last720d | 2024-12-06 | 90 | 2331 | 32 | 1269 | 455 | 2329 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [install.ps1](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/install.ps1) | 7.9 KiB | `other` |
-| [install.sh](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/install.sh) | 9.4 KiB | `other` |
-| [pixi-aarch64-apple-darwin](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/pixi-aarch64-apple-darwin) | 60.0 MiB | `native/darwin/arm64` |
-| [pixi-aarch64-apple-darwin.tar.gz](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/pixi-aarch64-apple-darwin.tar.gz) | 28.2 MiB | `native/darwin/arm64` |
-| [pixi-aarch64-apple-darwin.tar.gz.sha256](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/pixi-aarch64-apple-darwin.tar.gz.sha256) | 99 B | `native/darwin/arm64` |
-| [pixi-aarch64-pc-windows-msvc.exe](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/pixi-aarch64-pc-windows-msvc.exe) | 82.6 MiB | `native/win/arm64` |
-| [pixi-aarch64-pc-windows-msvc.msi](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/pixi-aarch64-pc-windows-msvc.msi) | 37.6 MiB | `native/win/arm64` |
-| [pixi-aarch64-pc-windows-msvc.msi.sha256](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/pixi-aarch64-pc-windows-msvc.msi.sha256) | 99 B | `native/win/arm64` |
-| [pixi-aarch64-pc-windows-msvc.zip](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/pixi-aarch64-pc-windows-msvc.zip) | 34.5 MiB | `native/win/arm64` |
-| [pixi-aarch64-pc-windows-msvc.zip.sha256](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/pixi-aarch64-pc-windows-msvc.zip.sha256) | 99 B | `native/win/arm64` |
-| [pixi-aarch64-unknown-linux-musl](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/pixi-aarch64-unknown-linux-musl) | 73.3 MiB | `native/linux/arm64/musl` |
-| [pixi-aarch64-unknown-linux-musl.tar.gz](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/pixi-aarch64-unknown-linux-musl.tar.gz) | 34.2 MiB | `native/linux/arm64/musl` |
-| [pixi-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/pixi-aarch64-unknown-linux-musl.tar.gz.sha256) | 105 B | `native/linux/arm64/musl` |
-| [pixi-riscv64gc-unknown-linux-gnu](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/pixi-riscv64gc-unknown-linux-gnu) | 74.1 MiB | `native/linux/riscv64/glibc` |
-| [pixi-riscv64gc-unknown-linux-gnu.tar.gz](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/pixi-riscv64gc-unknown-linux-gnu.tar.gz) | 37.1 MiB | `native/linux/riscv64/glibc` |
-| [pixi-riscv64gc-unknown-linux-gnu.tar.gz.sha256](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/pixi-riscv64gc-unknown-linux-gnu.tar.gz.sha256) | 106 B | `native/linux/riscv64/glibc` |
-| [pixi-x86_64-apple-darwin](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/pixi-x86_64-apple-darwin) | 80.8 MiB | `native/darwin/x64` |
-| [pixi-x86_64-apple-darwin.tar.gz](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/pixi-x86_64-apple-darwin.tar.gz) | 35.1 MiB | `native/darwin/x64` |
-| [pixi-x86_64-apple-darwin.tar.gz.sha256](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/pixi-x86_64-apple-darwin.tar.gz.sha256) | 98 B | `native/darwin/x64` |
-| [pixi-x86_64-pc-windows-msvc.exe](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/pixi-x86_64-pc-windows-msvc.exe) | 83.7 MiB | `native/win/x64` |
-| [pixi-x86_64-pc-windows-msvc.msi](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/pixi-x86_64-pc-windows-msvc.msi) | 35.0 MiB | `native/win/x64` |
-| [pixi-x86_64-pc-windows-msvc.msi.sha256](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/pixi-x86_64-pc-windows-msvc.msi.sha256) | 98 B | `native/win/x64` |
-| [pixi-x86_64-pc-windows-msvc.zip](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/pixi-x86_64-pc-windows-msvc.zip) | 32.0 MiB | `native/win/x64` |
-| [pixi-x86_64-pc-windows-msvc.zip.sha256](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/pixi-x86_64-pc-windows-msvc.zip.sha256) | 98 B | `native/win/x64` |
-| [pixi-x86_64-unknown-linux-musl](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/pixi-x86_64-unknown-linux-musl) | 69.3 MiB | `native/linux/x64/musl` |
-| [pixi-x86_64-unknown-linux-musl.tar.gz](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/pixi-x86_64-unknown-linux-musl.tar.gz) | 31.2 MiB | `native/linux/x64/musl` |
-| [pixi-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/pixi-x86_64-unknown-linux-musl.tar.gz.sha256) | 104 B | `native/linux/x64/musl` |
-| [sha256.sum](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/sha256.sum) | 986 B | `other` |
-| [source.tar.gz](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/source.tar.gz) | 19.4 MiB | `native/unknown` |
-| [source.tar.gz.sha256](https://github.com/prefix-dev/pixi/releases/download/v0.84.2/source.tar.gz.sha256) | 80 B | `other` |
+| [install.ps1](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/install.ps1) | 7.9 KiB | `other` |
+| [install.sh](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/install.sh) | 9.4 KiB | `other` |
+| [pixi-aarch64-apple-darwin](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-aarch64-apple-darwin) | 60.6 MiB | `native/darwin/arm64` |
+| [pixi-aarch64-apple-darwin.tar.gz](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-aarch64-apple-darwin.tar.gz) | 28.5 MiB | `native/darwin/arm64` |
+| [pixi-aarch64-apple-darwin.tar.gz.sha256](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-aarch64-apple-darwin.tar.gz.sha256) | 99 B | `native/darwin/arm64` |
+| [pixi-aarch64-pc-windows-msvc.exe](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-aarch64-pc-windows-msvc.exe) | 83.1 MiB | `native/win/arm64` |
+| [pixi-aarch64-pc-windows-msvc.msi](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-aarch64-pc-windows-msvc.msi) | 37.7 MiB | `native/win/arm64` |
+| [pixi-aarch64-pc-windows-msvc.msi.sha256](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-aarch64-pc-windows-msvc.msi.sha256) | 99 B | `native/win/arm64` |
+| [pixi-aarch64-pc-windows-msvc.zip](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-aarch64-pc-windows-msvc.zip) | 34.6 MiB | `native/win/arm64` |
+| [pixi-aarch64-pc-windows-msvc.zip.sha256](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-aarch64-pc-windows-msvc.zip.sha256) | 99 B | `native/win/arm64` |
+| [pixi-aarch64-unknown-linux-musl](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-aarch64-unknown-linux-musl) | 73.9 MiB | `native/linux/arm64/musl` |
+| [pixi-aarch64-unknown-linux-musl.tar.gz](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-aarch64-unknown-linux-musl.tar.gz) | 34.5 MiB | `native/linux/arm64/musl` |
+| [pixi-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-aarch64-unknown-linux-musl.tar.gz.sha256) | 105 B | `native/linux/arm64/musl` |
+| [pixi-riscv64gc-unknown-linux-gnu](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-riscv64gc-unknown-linux-gnu) | 74.6 MiB | `native/linux/riscv64/glibc` |
+| [pixi-riscv64gc-unknown-linux-gnu.tar.gz](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-riscv64gc-unknown-linux-gnu.tar.gz) | 37.4 MiB | `native/linux/riscv64/glibc` |
+| [pixi-riscv64gc-unknown-linux-gnu.tar.gz.sha256](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-riscv64gc-unknown-linux-gnu.tar.gz.sha256) | 106 B | `native/linux/riscv64/glibc` |
+| [pixi-x86_64-apple-darwin](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-x86_64-apple-darwin) | 81.5 MiB | `native/darwin/x64` |
+| [pixi-x86_64-apple-darwin.tar.gz](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-x86_64-apple-darwin.tar.gz) | 35.5 MiB | `native/darwin/x64` |
+| [pixi-x86_64-apple-darwin.tar.gz.sha256](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-x86_64-apple-darwin.tar.gz.sha256) | 98 B | `native/darwin/x64` |
+| [pixi-x86_64-pc-windows-msvc.exe](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-x86_64-pc-windows-msvc.exe) | 84.7 MiB | `native/win/x64` |
+| [pixi-x86_64-pc-windows-msvc.msi](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-x86_64-pc-windows-msvc.msi) | 35.4 MiB | `native/win/x64` |
+| [pixi-x86_64-pc-windows-msvc.msi.sha256](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-x86_64-pc-windows-msvc.msi.sha256) | 98 B | `native/win/x64` |
+| [pixi-x86_64-pc-windows-msvc.zip](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-x86_64-pc-windows-msvc.zip) | 32.3 MiB | `native/win/x64` |
+| [pixi-x86_64-pc-windows-msvc.zip.sha256](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-x86_64-pc-windows-msvc.zip.sha256) | 98 B | `native/win/x64` |
+| [pixi-x86_64-unknown-linux-musl](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-x86_64-unknown-linux-musl) | 70.1 MiB | `native/linux/x64/musl` |
+| [pixi-x86_64-unknown-linux-musl.tar.gz](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-x86_64-unknown-linux-musl.tar.gz) | 31.6 MiB | `native/linux/x64/musl` |
+| [pixi-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-x86_64-unknown-linux-musl.tar.gz.sha256) | 104 B | `native/linux/x64/musl` |
+| [sha256.sum](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/sha256.sum) | 986 B | `other` |
+| [source.tar.gz](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/source.tar.gz) | 19.5 MiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/prefix-dev/pixi/releases/download/v0.85.0/source.tar.gz.sha256) | 80 B | `other` |
 
 ## 改进这些数据
 
@@ -109,4 +109,4 @@ pixi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T09:53:23Z._
+_数据快照: `data/card/261126.yml` · 2026-11-26T09:26:00Z._
