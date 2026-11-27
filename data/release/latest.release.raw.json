@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8104,
       "digest": "sha256:785cb79698f677bd890c20de67d555f23676c6654735a760b6fe361555d884ad",
-      "download_count": 4,
+      "download_count": 8,
       "created_at": "2026-11-25T11:17:49Z",
       "updated_at": "2026-11-25T11:17:50Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/install.ps1"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 9616,
       "digest": "sha256:fa892789b3a3b7c344ec77da25a670625b308c5eb953fed69371fb3f67f11aea",
-      "download_count": 9,
+      "download_count": 12,
       "created_at": "2026-11-25T11:17:49Z",
       "updated_at": "2026-11-25T11:17:50Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/install.sh"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 63551312,
       "digest": "sha256:4e51d92aba9b66770033cc28d116a701b78e0ff760e49d86b411cd25f00a4cb8",
-      "download_count": 1433,
+      "download_count": 2577,
       "created_at": "2026-11-25T11:17:49Z",
       "updated_at": "2026-11-25T11:17:52Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-aarch64-apple-darwin"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 29870590,
       "digest": "sha256:99f893da09dda63ec038d4476f01c8f735b276781c6862bdd4415b9e944f4675",
-      "download_count": 1558,
+      "download_count": 3035,
       "created_at": "2026-11-25T11:17:50Z",
       "updated_at": "2026-11-25T11:17:52Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-aarch64-apple-darwin.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 99,
       "digest": "sha256:991375d2e819d72bd06db869e901125d5c85d4b274729a5c40b426902ac0dbe2",
-      "download_count": 28,
+      "download_count": 50,
       "created_at": "2026-11-25T11:17:49Z",
       "updated_at": "2026-11-25T11:17:50Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-aarch64-apple-darwin.tar.gz.sha256"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 87116216,
       "digest": "sha256:7ae158f3dd230bd12ff1a12bbb68b5e5b21fc6c1c1358a2381f23e17a42b5c64",
-      "download_count": 110,
+      "download_count": 184,
       "created_at": "2026-11-25T11:17:50Z",
       "updated_at": "2026-11-25T11:17:54Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-aarch64-pc-windows-msvc.exe"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 39567360,
       "digest": "sha256:d232428534dd3747e24fab9a614293ee607fbed29d9de5316c400aa3efceb705",
-      "download_count": 22,
+      "download_count": 43,
       "created_at": "2026-11-25T11:17:50Z",
       "updated_at": "2026-11-25T11:17:52Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-aarch64-pc-windows-msvc.msi"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 99,
       "digest": "sha256:ee16b59130432fad4b4d4128a30b1cf12bbb6802deef8ccb9cc3bdc5c37b0dec",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-11-25T11:17:51Z",
       "updated_at": "2026-11-25T11:17:51Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-aarch64-pc-windows-msvc.msi.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 36330348,
       "digest": "sha256:4e693484d765b91b8def80d7cf3da4d312f1ad7316257813b972ca5ddc563977",
-      "download_count": 250,
+      "download_count": 485,
       "created_at": "2026-11-25T11:17:51Z",
       "updated_at": "2026-11-25T11:17:54Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-aarch64-pc-windows-msvc.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 99,
       "digest": "sha256:cc6547aa46ac96577a28f473f6a0c20e576412318351604765f879c3d41c44b5",
-      "download_count": 36,
+      "download_count": 37,
       "created_at": "2026-11-25T11:17:52Z",
       "updated_at": "2026-11-25T11:17:52Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-aarch64-pc-windows-msvc.zip.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 77461536,
       "digest": "sha256:b2541b1715525db9f6387869caa3166c2939e16a6763157c374359fedea9c7b8",
-      "download_count": 321,
+      "download_count": 896,
       "created_at": "2026-11-25T11:17:53Z",
       "updated_at": "2026-11-25T11:17:57Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-aarch64-unknown-linux-musl"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 36159356,
       "digest": "sha256:053b714663e5721d1362290279d66df98d3389f07cc4bb2782a9afa5a94d7ab3",
-      "download_count": 197,
+      "download_count": 446,
       "created_at": "2026-11-25T11:17:53Z",
       "updated_at": "2026-11-25T11:17:55Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-aarch64-unknown-linux-musl.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 105,
       "digest": "sha256:180198cad2fa4b1c0d57f2beb74558b67e9f53d6ef19efc556b5c01f29d014ef",
-      "download_count": 32,
+      "download_count": 67,
       "created_at": "2026-11-25T11:17:53Z",
       "updated_at": "2026-11-25T11:17:53Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-aarch64-unknown-linux-musl.tar.gz.sha256"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 39177650,
       "digest": "sha256:9324af34a69c768edffe600cdad61ea3701a35d4744d5d286e87902135ad3d9a",
-      "download_count": 15,
+      "download_count": 17,
       "created_at": "2026-11-25T11:17:54Z",
       "updated_at": "2026-11-25T11:17:56Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-riscv64gc-unknown-linux-gnu.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 106,
       "digest": "sha256:2677690010a69e9a4ee17babb54007d2c06e190ce36e0423a0171eb55c032a38",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-11-25T11:17:54Z",
       "updated_at": "2026-11-25T11:17:55Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-riscv64gc-unknown-linux-gnu.tar.gz.sha256"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 85463424,
       "digest": "sha256:b2510a0fb0b55381af743b1ba9e91ec5a698672152c7464d0f8d18955889dd9b",
-      "download_count": 135,
+      "download_count": 219,
       "created_at": "2026-11-25T11:17:55Z",
       "updated_at": "2026-11-25T11:17:58Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-x86_64-apple-darwin"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 37213242,
       "digest": "sha256:d78ce449bb263c810d44592357557940cec9841945edb0b00f73dcd0207e376f",
-      "download_count": 457,
+      "download_count": 1098,
       "created_at": "2026-11-25T11:17:56Z",
       "updated_at": "2026-11-25T11:17:58Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-x86_64-apple-darwin.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 98,
       "digest": "sha256:a974731947f95c81423274889874391bf6ae5e908bb2d91d87f2d778c02a40cb",
-      "download_count": 3,
+      "download_count": 7,
       "created_at": "2026-11-25T11:17:57Z",
       "updated_at": "2026-11-25T11:17:57Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-x86_64-apple-darwin.tar.gz.sha256"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 88782264,
       "digest": "sha256:00c4269c5a2efb8796da5786c2b68c45392f7cdd18252ead1036ff867360c6b3",
-      "download_count": 2051,
+      "download_count": 3973,
       "created_at": "2026-11-25T11:17:57Z",
       "updated_at": "2026-11-25T11:18:01Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-x86_64-pc-windows-msvc.exe"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 37101568,
       "digest": "sha256:30d9562e0c73a528c7b39a45e6f625e462a59a7be6b477712982e38434a981f5",
-      "download_count": 158,
+      "download_count": 403,
       "created_at": "2026-11-25T11:17:58Z",
       "updated_at": "2026-11-25T11:18:00Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-x86_64-pc-windows-msvc.msi"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 98,
       "digest": "sha256:175ce12fde43cc81d390c769791bf22668f2616c4cae92cfce5959822590b72a",
-      "download_count": 13,
+      "download_count": 17,
       "created_at": "2026-11-25T11:17:58Z",
       "updated_at": "2026-11-25T11:17:58Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-x86_64-pc-windows-msvc.msi.sha256"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 33916780,
       "digest": "sha256:a34af155965345ed9a6f123125bc3b482973956bcbbe0a2451798a4ba72d307b",
-      "download_count": 1282,
+      "download_count": 2606,
       "created_at": "2026-11-25T11:17:58Z",
       "updated_at": "2026-11-25T11:18:00Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-x86_64-pc-windows-msvc.zip"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 98,
       "digest": "sha256:e1c94d6a4a7fe7b91cfd05eba87fc8d82d53a22a79139424a3b6ed3ef24527ad",
-      "download_count": 37,
+      "download_count": 49,
       "created_at": "2026-11-25T11:17:59Z",
       "updated_at": "2026-11-25T11:17:59Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-x86_64-pc-windows-msvc.zip.sha256"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 73453472,
       "digest": "sha256:539945f449e67002f831c6826c3fffe9120f6ad36f98e6860968f9fce1af7729",
-      "download_count": 15098,
+      "download_count": 30711,
       "created_at": "2026-11-25T11:17:59Z",
       "updated_at": "2026-11-25T11:18:03Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-x86_64-unknown-linux-musl"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 33092502,
       "digest": "sha256:e3c34f16cb634d5f20ffd4aa60a2844b3cacbdb16b0566c2dfe1d89619f13cab",
-      "download_count": 5859,
+      "download_count": 10898,
       "created_at": "2026-11-25T11:18:00Z",
       "updated_at": "2026-11-25T11:18:02Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-x86_64-unknown-linux-musl.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 104,
       "digest": "sha256:09e7adbddad17d56fc0982fb8832885c94173405d9ec10597b70e487444f8ae6",
-      "download_count": 77,
+      "download_count": 146,
       "created_at": "2026-11-25T11:18:00Z",
       "updated_at": "2026-11-25T11:18:01Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/pixi-x86_64-unknown-linux-musl.tar.gz.sha256"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 986,
       "digest": "sha256:bdcb2be90291a2f1f6bdbba14761a44b4c0294a48e4930795111f63352a31343",
-      "download_count": 13,
+      "download_count": 15,
       "created_at": "2026-11-25T11:18:01Z",
       "updated_at": "2026-11-25T11:18:01Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/sha256.sum"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 20434272,
       "digest": "sha256:18d0d1f90814769b5ed78314d00e4986a058524ca402e1694afb0a00a07f83c2",
-      "download_count": 10,
+      "download_count": 13,
       "created_at": "2026-11-25T11:18:01Z",
       "updated_at": "2026-11-25T11:18:02Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/source.tar.gz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 80,
       "digest": "sha256:764640ef69c74553cbbbe08d255b25e66b4d6fe594da3819783816f571554354",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-25T11:18:01Z",
       "updated_at": "2026-11-25T11:18:02Z",
       "browser_download_url": "https://github.com/prefix-dev/pixi/releases/download/v0.85.0/source.tar.gz.sha256"
